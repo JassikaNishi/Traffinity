@@ -1,0 +1,34 @@
+{
+  "name": "sehatkal",
+  "version": "1.0.0",
+  "description": "SehatKal is a user-friendly website designed to help students prioritize their health and fitness. Balancing academics and a healthy lifestyle can be challenging, but SehatKal makes it easier by providing tools to track, set, and achieve fitness goals.",
+  "main": "index.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "node index.js",
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JassikaNishi/SehatKal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JassikaNishi/SehatKal/issues"
+  },
+  "homepage": "https://github.com/JassikaNishi/SehatKal#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "firebase": "^11.1.0",
+    "react-scripts": "^5.0.1",
+    "sehatkal": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

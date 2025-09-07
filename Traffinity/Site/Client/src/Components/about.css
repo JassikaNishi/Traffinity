@@ -1,0 +1,143 @@
+/* General Styles */
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f6f7;
+  }
+  
+  /* Navbar Styles */
+  .navbar {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 1000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .navbar a {
+    color: #2D3A49;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin: 0 20px;
+    padding: 10px;
+    display: inline-block;
+  }
+  
+  .navbar a:hover {
+    color: #34495E;
+    text-decoration: underline;
+  }
+  
+  /* Main Section Styles */
+  .about-container {
+    padding: 20px;
+    text-align: center;
+    margin-top: 60px; /* Prevent content from overlapping sticky navbar */
+  }
+  
+  h1, h2 {
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 15px;
+    font-style: italic;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #2D3A49;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-top: 15px;
+    color: #2C3E50;
+  }
+  
+  p {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #34495E;
+  }
+  
+  /* Section Style */
+  .section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 40px;
+    padding-top: 60px; /* Prevent image overlap */
+  }
+  
+  .image-container {
+    flex: 1;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    border-radius: 10px;
+  }
+  
+  .text-container {
+    flex: 1;
+    padding-left: 20px;
+    text-align: left;
+  }
+  
+  .image-with-text-container {
+    position: relative;
+    flex: 1;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+  
+  .image-with-text-container h2 {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .image-with-text-container p {
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  /* Custom Styles for Each Section */
+  .mission {
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/2276750979/display_1500/stock-photo-mission-team-building-or-hands-of-business-people-with-goals-support-or-motivation-for-success-or-2276750979.jpg');
+  }
+  
+  .vision {
+    background-image: url('https://static.wixstatic.com/media/ef9ce3e48be340a4b91f0c3e1644aa5b.jpg/v1/fill/w_640,h_410,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/ef9ce3e48be340a4b91f0c3e1644aa5b.jpg');
+  }
+  
+  .values {
+    background-image: url('./values.png');
+  }
+  
+  .team {
+    background-image: url('https://plus.unsplash.com/premium_photo-1661767467261-4a4bed92a507?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b3VyJTIwdGVhbXxlbnwwfHwwfHx8MA%3D%3D');
+  }
+  
+  /* Animation */
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  .fadeIn {
+    animation: fadeIn 2s ease-in-out;
+  }
+  
+  

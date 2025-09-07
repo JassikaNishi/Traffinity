@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "public": "SehatKal/dist",
+    "rewrites": [
+      {
+        "source": "/**",
+        "function": "app"
+      }
+    ]
+  }
+ 
+}
+
