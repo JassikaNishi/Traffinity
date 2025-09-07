@@ -2,7 +2,6 @@
 *.zip
 *.mp4
 *.weights
-node_modules/
 
 # Ignore sensitive or unnecessary files
 *.env
@@ -13,3 +12,5 @@ node_modules/
 # Ignore YOLO weight and zip files
 *.weights
 *.zip
+.env
+.env.*
