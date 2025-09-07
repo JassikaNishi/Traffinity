@@ -1,0 +1,15 @@
+# Ignore large files
+*.zip
+*.mp4
+*.weights
+node_modules/
+
+# Ignore sensitive or unnecessary files
+*.env
+*.zip
+*.mp4
+*.weights
+*.env
+# Ignore YOLO weight and zip files
+*.weights
+*.zip

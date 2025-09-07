@@ -1,0 +1,804 @@
+Name,City,Street,Housenumber,State,Postcode,Latitude,Longitude,Emergency,Speciality,Phone,Website
+Shanti Hospital,N/A,N/A,N/A,N/A,N/A,12.9235041,77.5857517,N/A,N/A,N/A,N/A
+Narayana Hrudayalaya Dental Clinic,N/A,Outer Ring Road,N/A,N/A,N/A,12.9155759,77.6349897,N/A,N/A,N/A,N/A
+Dr Ganesh Medical and Diabetic Clinic,N/A,N/A,N/A,N/A,N/A,12.9129006,77.6419101,N/A,N/A,N/A,N/A
+JBS Hospital,N/A,Kanakapura Road,N/A,N/A,N/A,12.9207173,77.5745968,N/A,N/A,N/A,N/A
+Jayanagar heart Centre,N/A,N/A,N/A,N/A,N/A,12.9231684,77.584433,N/A,N/A,N/A,N/A
+Sri Vijayalakshmi Pragathi Hospital,N/A,N/A,N/A,N/A,N/A,13.0371728,77.6409543,N/A,N/A,N/A,N/A
+Sathya Hospital,N/A,N/A,N/A,N/A,N/A,13.0185503,77.6364728,N/A,N/A,N/A,N/A
+Chord Road Hospital Pvt Ltd,"Basaveshwara Nagar, Bangalore",West of Chord Road (LIC Colony),100,Karnataka,560079,12.9981215,77.5404836,N/A,multi speciality,+91-80-23225858;+91-80-23225868;+91-80-23225878,http://www.chordroadhospitalent.com/
+Pristline Hospital,"Basaveshwara Nagar, Bangalore",Modi Hospital Road (West of Chord Road),877,N/A,560079,12.9978931,77.5436127,N/A,N/A,+91-80-41354444;+91-80-51270776,http://www.pristinehospitals.com/
+"Bengaluru Hospital, Susruta Medical Aid AndResearch Home Limited",N/A,Rashtriya Vidyalaya Road,N/A,Karnataka,560001,12.9376734,77.5802836,N/A,N/A,N/A,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Manipal Northside Hospital,bangalore,"11th Main Road, Opp Railway Station, Malleswaram",71,Karnataka,560003,13.0011275,77.5639285,N/A,N/A,080 2222 1111,N/A
+Government Primary Health Centre,N/A,N/A,N/A,N/A,N/A,12.9503234,77.6162619,N/A,N/A,N/A,N/A
+Divakars speciality Hospital,N/A,N/A,N/A,Karnataka,560078,12.9100629,77.5924585,N/A,General Gynecology; Obstetrics; Prenatal Care; nulife clinic; Laboratory Testing and In-Office Surgery; Medical Spa for Women; Ophthalmology,N/A,http://www.healthforher.in/
+BMTC Hospital,N/A,N/A,N/A,N/A,N/A,12.9234317,77.5923374,N/A,N/A,N/A,N/A
+Ramakrishna Nursing Home and Hospital,N/A,N/A,N/A,N/A,N/A,12.9364329,77.583477,N/A,N/A,N/A,N/A
+Sri Vinayaka Poly Clinic,bangalore,"80 Feet Road, SBM Colony, Near-Bank Colony Bus Stop, Banashankari 1st Stage",8/45,N/A,560050,12.939058,77.5510802,N/A,N/A,080 2672 8455,N/A
+RMV Hospital,N/A,N/A,N/A,N/A,N/A,13.0322788,77.576876,yes,N/A,N/A,N/A
+Mallya Audikesh Diagnostics Center,Bangalore,Infantry Road,55,N/A,560001,12.9815051,77.6011944,N/A,N/A,+918022868423,http://www.medinovaindia.com
+Mallige Medical Centre,Bangalore,"Crescent Rd,Nehru Nagar,Gandhi Nagar",31/32,N/A,560001,12.985247,77.5803846,N/A,N/A,080 2220 3333,https://www.mallige.com/
+Devine Hospital,N/A,N/A,N/A,Karnataka,560046,13.0038999,77.6039313,N/A,N/A,N/A,N/A
+Lalbagh Nursing Home,N/A,Siddapura Road,N/A,N/A,N/A,12.9452313,77.5861734,N/A,N/A,N/A,N/A
+Government Maternity Hospital,N/A,N/A,N/A,N/A,N/A,12.9988604,77.5817424,N/A,N/A,N/A,N/A
+Nova Hospital,N/A,Ramana Maharshi Road,N/A,N/A,N/A,13.0073436,77.5837111,N/A,N/A,N/A,N/A
+Soujanya Clinic,N/A,N/A,N/A,N/A,N/A,12.9681189,77.54325,no,N/A,N/A,N/A
+Kanva Diagnostics Collection Centre,N/A,N/A,N/A,N/A,N/A,12.967291,77.5429164,N/A,N/A,N/A,N/A
+Srinivas Clinic,N/A,29 Main,N/A,N/A,N/A,12.9073391,77.5830655,no,N/A,N/A,N/A
+Unknown Hospital,N/A,N/A,N/A,N/A,N/A,13.0043642,77.5652959,N/A,N/A,N/A,N/A
+Metro Hospital,N/A,N/A,N/A,N/A,N/A,12.8915893,77.560715,yes,N/A,N/A,N/A
+ESI Hospital,N/A,N/A,N/A,N/A,N/A,12.995242,77.6523255,N/A,N/A,N/A,N/A
+SDS Tuberculosis Research Centre and Rajiv Gandhi Institute of Chest diseases,N/A,N/A,N/A,N/A,N/A,12.9367955,77.5907094,no,N/A,N/A,N/A
+Maiya Multispecialty Hospital,N/A,N/A,N/A,Karnataka,560011,12.942614,77.5854533,N/A,N/A,N/A,N/A
+Narayana Netralaya,N/A,Castle Street,37,Karnataka,560025,12.9671401,77.6094485,N/A,N/A,N/A,N/A
+"Vasan Eye Care Hospital, Nagarabhavi",N/A,N/A,N/A,Karnataka,560091,12.9746134,77.5129757,N/A,N/A,N/A,http://www.vasaneye.in/
+Rc Hospital,N/A,N/A,N/A,Karnataka,560098,12.930936,77.5153776,N/A,N/A,N/A,N/A
+Veturi Child Health Centre,N/A,N/A,N/A,N/A,N/A,12.9263226,77.5156579,N/A,N/A,N/A,N/A
+Guru Kripa Clinic,N/A,N/A,N/A,N/A,N/A,13.0349833,77.5676844,N/A,N/A,N/A,N/A
+Chirag Hospital and Maternity Center,N/A,17th Main Road,N/A,Karnataka,560078,12.9126298,77.5913594,N/A,N/A,N/A,N/A
+Udhbhava Hospital,N/A,N/A,N/A,Karnataka,560085,12.9256842,77.5489346,yes,N/A,N/A,N/A
+DG Hospital,N/A,N/A,N/A,Karnataka,560073,12.9206648,77.5598673,yes,N/A,N/A,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Srinivasa Nursing Home,N/A,N/A,N/A,N/A,N/A,12.9423039,77.6174893,N/A,N/A,N/A,N/A
+Kangila Clinic,N/A,N/A,N/A,N/A,N/A,12.9336501,77.5660602,yes,N/A,N/A,N/A
+"Vasan Eye Care Hospital, Koramangala",N/A,N/A,N/A,Karnataka,560095,12.9402371,77.6253403,yes,N/A,N/A,http://www.vasaneye.in/
+Asha Clinic,N/A,13th cross,N/A,N/A,N/A,12.9158901,77.6506948,N/A,N/A,N/A,N/A
+health nest,N/A,N/A,N/A,N/A,N/A,12.9075992,77.6488507,N/A,N/A,N/A,N/A
+Amma's ENT Clinic,N/A,N/A,N/A,N/A,N/A,13.0281613,77.5793947,N/A,N/A,N/A,N/A
+Krishna Specialty Clinic,N/A,N/A,N/A,N/A,N/A,13.026721,77.5789272,N/A,N/A,N/A,N/A
+Seventh Day Adventist Hospital,Bengaluru,Saunders Road,N/A,N/A,560005,12.995625,77.6113272,N/A,N/A,N/A,N/A
+Srinivasa Nursing Home,N/A,N/A,N/A,N/A,N/A,12.9965077,77.6220456,N/A,N/A,N/A,N/A
+Kids Care Clinic,N/A,N/A,N/A,N/A,N/A,12.914434,77.6050207,N/A,N/A,N/A,N/A
+Pristine Health care,N/A,N/A,N/A,N/A,N/A,12.9382768,77.6186753,yes,N/A,N/A,N/A
+Prerana Dental Clinic,N/A,N/A,N/A,N/A,N/A,12.9186845,77.630774,N/A,N/A,N/A,N/A
+Mamtha Health Center,N/A,N/A,N/A,N/A,N/A,12.9180492,77.6318764,N/A,N/A,N/A,N/A
+Suprabha Hospital,N/A,N/A,N/A,N/A,N/A,13.0079383,77.5469059,N/A,N/A,N/A,N/A
+Sangolli Nursing Home,N/A,N/A,N/A,N/A,N/A,13.0083564,77.5469273,N/A,N/A,N/A,N/A
+Diacon Hospital,N/A,N/A,N/A,Karnataka,560010,13.0037682,77.5498337,N/A,N/A,N/A,N/A
+Agarwal Eye Hospital,N/A,N/A,N/A,N/A,N/A,12.9273417,77.6221301,N/A,N/A,N/A,N/A
+Sagar Dental Clinic,N/A,N/A,N/A,N/A,N/A,12.9168875,77.6300639,N/A,N/A,N/A,N/A
+Venkateshwara Hospital,N/A,Hosur road,N/A,N/A,N/A,12.9257842,77.6170828,N/A,N/A,N/A,N/A
+Namratha Hospital,N/A,N/A,N/A,N/A,N/A,13.0047859,77.543073,N/A,N/A,N/A,N/A
+Devi Eye Hospital,N/A,N/A,N/A,N/A,N/A,12.9162576,77.6374069,N/A,N/A,N/A,N/A
+Mysore Hospital,N/A,N/A,N/A,Karnataka,560022,13.0275337,77.5397051,N/A,N/A,N/A,N/A
+Jayanagar Orthopaedic Centre,N/A,N/A,N/A,Karnataka,560041,12.9293288,77.5877091,no,N/A,N/A,N/A
+Shekar Hospital,N/A,Shyamaraja Iyengar Road,N/A,Karnataka,560019,12.9458714,77.5675192,no,N/A,N/A,N/A
+Punya Hospital,N/A,N/A,N/A,N/A,N/A,13.0011459,77.5359798,yes,N/A,N/A,N/A
+Vasan Eye Care,N/A,Hosur road,N/A,N/A,N/A,12.9102705,77.6265538,N/A,N/A,N/A,N/A
+Parimala Clinic,N/A,Ayodhyarama Road,N/A,N/A,N/A,12.9135707,77.5788941,N/A,N/A,N/A,N/A
+Karanth Speciality Hospital,N/A,N/A,N/A,Karnataka,560068,12.9160081,77.6193573,yes,N/A,N/A,N/A
+Gangothri Hospital,N/A,Outer Ring Road,N/A,Karnataka,560076,12.9162878,77.6138218,yes,N/A,N/A,N/A
+Vignan Hospital,N/A,N/A,N/A,N/A,N/A,12.9438988,77.5968766,N/A,N/A,N/A,https://bidsinstitution.com/
+Spurthy Hospital,N/A,N/A,N/A,Karnataka,560029,12.9239335,77.61116,N/A,N/A,N/A,N/A
+Prasad Eye Hospital,N/A,N/A,N/A,N/A,N/A,12.9351929,77.6086817,N/A,N/A,N/A,N/A
+NIMHANS Screening block,N/A,N/A,N/A,N/A,N/A,12.9387115,77.5937737,no,N/A,N/A,N/A
+NIMHANS OPD,N/A,N/A,N/A,N/A,N/A,12.9388056,77.5942994,N/A,N/A,N/A,N/A
+Manjunath Hospital,N/A,N/A,N/A,Karnataka,560027,12.9483598,77.5940621,N/A,N/A,N/A,N/A
+Karthik Hospital,N/A,8th Cross,N/A,N/A,N/A,12.9484356,77.5942592,N/A,N/A,N/A,N/A
+Aswad Hospital,N/A,Hosur road,N/A,Karnataka,560068,12.9147871,77.6247622,N/A,N/A,N/A,N/A
+TSR heart care,N/A,N/A,N/A,N/A,N/A,13.0264438,77.5933686,N/A,N/A,N/A,N/A
+Fortis Hospital,N/A,N/A,N/A,Karnataka,560086,13.0022409,77.5490879,N/A,N/A,N/A,N/A
+Citi Hospital,Bangalore,Chord Road,25/91,Karnataka,560010,12.9956506,77.5510696,N/A,N/A,+(91)-80-23131778,N/A
+"Vasan Eye Care Hospital, Rajaji Nagar",Bengaluru,19th Cross Road,46,Karnataka,560010,12.9995223,77.5505328,N/A,N/A,N/A,N/A
+Ananya Hospital,N/A,N/A,N/A,Karnataka,560010,12.9998205,77.55045,N/A,Cardiology;Cosmetology;Dermatology;Diabetology;Emergency Medicine;ENT;Gastroenterology;General Medicine;General Surgery;Internal Medicine;Laparoscopic Surgery;Medical Oncology;Nephrology;Obesity;Obstetricsand Gynaecology,N/A,www.ananyahospital.org
+Baptist,N/A,N/A,N/A,N/A,N/A,12.9970915,77.5719766,N/A,N/A,N/A,N/A
+Shivakrupa Hospital,N/A,N/A,N/A,N/A,N/A,12.973967,77.5479135,N/A,N/A,N/A,N/A
+Dr. Ambedkar Medical College Hospital,N/A,N/A,N/A,N/A,N/A,13.0248621,77.6139585,yes,N/A,N/A,N/A
+"Sri Maruthi hospital, Sheshadripuram",bangalore,"Link Rd, Malleswaram, Jai Bheema Nagar, Seshadripuram",67,Karnataka,560020,12.9926441,77.5742046,N/A,N/A,080 2344 9632,N/A
+Sunny Medicals Hospital Clinic,N/A,N/A,N/A,N/A,N/A,12.9267954,77.6699091,yes,N/A,N/A,N/A
+Karunya Homoeopathy Centre,N/A,N/A,N/A,N/A,N/A,13.0307899,77.653594,no,N/A,N/A,N/A
+Ayur Seva Hospital,N/A,N/A,N/A,N/A,N/A,13.0148188,77.6653699,N/A,N/A,N/A,N/A
+Vinayaka Specialty Hospital,N/A,N/A,N/A,N/A,N/A,12.8990004,77.6218548,no,N/A,N/A,N/A
+Gurushree Hitech Multispeciality Hospital,N/A,N/A,N/A,Karnataka,560048,12.9593144,77.5265054,yes,N/A,N/A,N/A
+"Shobha Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560040,12.9755854,77.5313495,no,N/A,N/A,N/A
+"Gayathri Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560040,12.9744053,77.5426819,yes,N/A,N/A,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Bharathy Hospital,N/A,N/A,N/A,Karnataka,560079,12.9761294,77.5326369,N/A,N/A,N/A,N/A
+Yogananda Medical and Research Centre,N/A,N/A,N/A,Karnataka,560070,12.9202791,77.5598033,yes,N/A,N/A,N/A
+Cure & Care Dental Clinic Dr. Moumita Mukherjee,N/A,N/A,N/A,N/A,N/A,12.9074968,77.6492213,N/A,N/A,N/A,N/A
+Shirdi Sai Hospital,N/A,N/A,N/A,Karnataka,560054,13.0372438,77.5648754,yes,N/A,N/A,http://shirdisaihospital.in/
+Nayantara Opticals,N/A,N/A,N/A,N/A,N/A,12.8924828,77.6198497,no,N/A,N/A,N/A
+Kottakkal Arya Vaidya Sala,N/A,N/A,N/A,N/A,N/A,12.9411061,77.5850591,no,N/A,N/A,N/A
+"Charan Homeopathy, Ramamurthy Nagar",N/A,N/A,N/A,N/A,N/A,13.0100409,77.6674667,N/A,N/A,N/A,N/A
+Rainbow Clinic and Diagnostic Laboratory,N/A,N/A,N/A,N/A,N/A,12.891484,77.5816961,yes,N/A,N/A,N/A
+Cloud Nine Hospital,Bangalore,"11th Main Road,17th Cross",N/A,N/A,N/A,13.0078742,77.5625316,N/A,N/A,9972999729,N/A
+"Nayak Hospital, Gayathri Nagar",N/A,N/A,N/A,Karnataka,560021,12.9993857,77.5606403,yes,N/A,N/A,N/A
+"Maharaja Agrasen Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560070,12.915903,77.5550223,yes,N/A,N/A,N/A
+Banashankari Referral Hospital,N/A,N/A,N/A,Karnataka,560070,12.9231342,77.5642974,N/A,N/A,N/A,N/A
+Bangalore Kidney Foundation - NU Hospital,N/A,N/A,N/A,N/A,N/A,12.9179548,77.555816,N/A,N/A,N/A,N/A
+"Panacea Hospital, Nagarabhavi",N/A,N/A,N/A,Karnataka,560072,12.9613237,77.511726,N/A,N/A,N/A,http://www.panaceahospital.com/
+Shanbhag Hospital,N/A,N/A,N/A,Karnataka,560079,12.9856882,77.5435424,N/A,N/A,N/A,http://snsvo7.seekandsource.com/shanbhag/
+Trupti Nursing Home,N/A,N/A,N/A,Karnataka,560079,12.9946566,77.5397544,N/A,N/A,N/A,N/A
+Srivijaya Speciality Hospital,N/A,N/A,N/A,Karnataka,560043,13.0124345,77.6580271,N/A,N/A,N/A,N/A
+Magnus Diagnostic Lab,N/A,N/A,N/A,N/A,N/A,12.9349187,77.6305022,no,N/A,N/A,N/A
+Krupa Medical center,N/A,N/A,N/A,N/A,N/A,13.000431,77.5411664,no,N/A,N/A,N/A
+Greenview Medical Center,Bengaluru,"14th Main Rd, opposite Agara Lake, Sector 5, 1st Sector, HSR Layout",N/A,N/A,560102,12.9191813,77.6381379,yes,N/A,N/A,N/A
+Vaidyaratnam Oushadhasala,N/A,N/A,N/A,N/A,N/A,12.9121004,77.6485848,no,N/A,N/A,https://www.vaidyaratnammooss.com/
+Blossoms Hospital,N/A,N/A,N/A,N/A,N/A,12.9064393,77.6308237,yes,N/A,N/A,N/A
+Happy Tooth,Bangalore,Vijayanagar Water Tank Road,N/A,N/A,560040,12.9744193,77.5336479,no,N/A,N/A,N/A
+Rishi Women and Child Clinic,Bangalore,Vijayanagar Water Tank Road,N/A,N/A,560040,12.9745812,77.532699,N/A,N/A,N/A,N/A
+Penta Care Ayurvedic Hospital,Bangalore,Vijayanagar Water Tank Road,N/A,N/A,560040,12.9736894,77.5369482,N/A,N/A,N/A,N/A
+Shalini Nursing & MAternity Home,Bangalore,6th Main Road,63,N/A,560085,12.9436624,77.5419997,N/A,N/A,N/A,N/A
+Shreya Poly Clinic,Bangalore,6th Main,N/A,N/A,560040,12.9729127,77.5394723,N/A,N/A,N/A,N/A
+Anurag Medical Center,Bangalore,4th Main Road,N/A,N/A,N/A,12.9612829,77.5271683,no,N/A,N/A,N/A
+United Medical lab,N/A,N/A,N/A,N/A,N/A,13.0007683,77.6132902,N/A,N/A,N/A,N/A
+Pragathi Ayurvedic Center,N/A,N/A,N/A,N/A,N/A,12.9843701,77.555666,N/A,N/A,N/A,N/A
+Vatsalya Chidren's Clinic,N/A,N/A,N/A,N/A,N/A,12.8948505,77.6109105,no,N/A,N/A,N/A
+Kottakkal Arya Vaidya Sala,N/A,N/A,N/A,N/A,N/A,12.9002599,77.6271003,no,N/A,N/A,N/A
+Sharavathi Hospitals (P) Ltd.,N/A,N/A,N/A,Karnataka,560040,12.9623406,77.5342853,N/A,N/A,N/A,N/A
+"Dr.Agarwal's Eye Hospital Ltd, Padmanabha Nagar",Bangalore,N/A,N/A,Karnataka,560070,12.9169288,77.5592568,N/A,N/A,N/A,N/A
+Shraddha Eye Care,N/A,N/A,N/A,Karnataka,560070,12.9184617,77.5555842,N/A,N/A,N/A,N/A
+"Vasan Eye Care Hospital, Rajarajeswari Nagar",N/A,N/A,N/A,Karnataka,560098,12.931334,77.5154779,N/A,ophthalmology,N/A,http://www.vasaneye.in/
+Cloud Nine Fertility,bangalore,"24th Main, 5th Phase, Opp Nandini Hotel, Puttenhalli, JP Nagar",250,N/A,560078,12.9055088,77.5858347,N/A,N/A,080 4350 0123,https://www.cloudninefertility.com/
+Oncology India,N/A,N/A,N/A,N/A,N/A,12.9061749,77.5847567,N/A,N/A,N/A,N/A
+Motherhood Hospital(Unit Of Rhea Healthcare Pvt Ltd),N/A,N/A,N/A,Karnataka,560038,12.9784409,77.6375845,N/A,N/A,N/A,N/A
+Respiratory and womens health clinic.,N/A,N/A,N/A,N/A,N/A,12.9762645,77.6376528,N/A,N/A,N/A,N/A
+Rashmi Hospital,N/A,Indiranagar Double Road (Paramahansa Yogananda road),N/A,N/A,N/A,12.9766951,77.6362278,N/A,N/A,N/A,N/A
+Netradama Eye Hospital,N/A,N/A,N/A,N/A,N/A,12.9734836,77.6357281,N/A,N/A,N/A,N/A
+Sree Venkateshwara Speciality Hospital,N/A,Bannerghatta Road,#1,Karnataka,560030,12.9425246,77.6025303,N/A,N/A,N/A,N/A
+Leela Hospital and Diagnostic Center,N/A,N/A,N/A,Karnataka,560003,13.0002667,77.5694894,N/A,N/A,N/A,N/A
+Dr. Rajkumar Blood Bank,N/A,N/A,N/A,N/A,N/A,12.968031,77.5878222,N/A,N/A,N/A,N/A
+"Sri Sai Krupa Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560021,13.0294181,77.5593857,N/A,general,N/A,N/A
+ALDOS Medical Service Pvt LTD,N/A,N/A,N/A,N/A,N/A,12.9826672,77.6381036,N/A,N/A,N/A,N/A
+Government Hospital,N/A,N/A,N/A,N/A,N/A,12.8870605,77.603414,N/A,N/A,N/A,N/A
+Rajashree Granthim hospital,N/A,N/A,N/A,N/A,N/A,12.8893134,77.602422,N/A,N/A,N/A,N/A
+Krishna Nursing Home,N/A,N/A,N/A,N/A,N/A,12.9474222,77.5986921,N/A,N/A,N/A,N/A
+"Shifa Hospital, Bengaluru Urban",N/A,Queen's Road,N/A,Karnataka,N/A,12.9900105,77.5988107,N/A,N/A,N/A,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Milann Fertility Center,N/A,N/A,N/A,Karnataka,560041,12.9159249,77.5856011,N/A,fertility,N/A,N/A
+Gift IVF center,N/A,N/A,N/A,N/A,N/A,12.962951,77.6418711,N/A,N/A,N/A,N/A
+HCG Cancer Hospital,Bengaluru,N/A,N/A,Karnataka,560027,12.9603157,77.5930493,N/A,N/A,N/A,https://www.hcgoncology.com/
+Health Care Global,N/A,N/A,N/A,N/A,N/A,12.9584755,77.5919279,N/A,N/A,N/A,N/A
+Gulecha Dental Care,Bangalore,"4th Cross Road, KV Layout, Jayanagar 4th Block",32/29,N/A,560011,12.9292418,77.5893625,N/A,dental_oral_maxillo_facial_surgery,N/A,https://www.gulechadental.com/
+Unknown Hospital,N/A,8th cross,N/A,N/A,N/A,12.9767055,77.5424167,N/A,N/A,N/A,N/A
+Rajbal Skin Clinic,Bangalore,"4th B cross, 7th C Main",N/A,N/A,560043,13.0206063,77.6445361,no,N/A,N/A,N/A
+Prashanth Hospital,N/A,N/A,N/A,Karnataka,560068,12.9066637,77.6287463,N/A,N/A,N/A,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Dianova Diabetes Center and Hospital,N/A,N/A,N/A,N/A,N/A,13.0147612,77.6335463,N/A,N/A,N/A,N/A
+Ameena Medical centre,N/A,18th Cross Road,111(3/1),N/A,N/A,12.9777082,77.6323407,N/A,N/A,N/A,N/A
+Dr.Agarwal Eye & Dental Hospital,N/A,N/A,N/A,N/A,N/A,12.9700356,77.6362439,N/A,N/A,N/A,N/A
+Dr Raos Maternity Hospital,N/A,N/A,N/A,Karnataka,560079,12.9850421,77.5460481,N/A,N/A,N/A,N/A
+Sagar Chandramma Hospitals,N/A,N/A,N/A,N/A,N/A,12.9485535,77.5748248,N/A,gynaecology,N/A,N/A
+Specialist Hospital,N/A,N/A,N/A,Karnataka,560043,13.0169826,77.6432959,N/A,N/A,N/A,N/A
+Vignesh Lab and Diagnostics,N/A,N/A,N/A,N/A,N/A,13.0267226,77.6041132,N/A,N/A,N/A,N/A
+Apollo Cradle,N/A,N/A,N/A,Karnataka,560095,12.9368104,77.6206345,N/A,Maternity Services; Birthing Fertility and IVF; Woman's Health; Women Health Checks; Procedures; Cancer Evaluation; Children's Health; New Born Screening; Vaccination,N/A,https://www.apollocradle.com/
+Shiva Kumaraswamy Building,N/A,N/A,N/A,N/A,N/A,12.9717049,77.5493718,N/A,N/A,N/A,N/A
+Kottakkal Arya Vaidya Sala,Bengaluru,"Service Rd, Agara, Iblur Village, Bellandur",N/A,N/A,560103,12.9217604,77.6618321,N/A,N/A,+91-80 6450 4434,https://aryavaidyasala.com/
+Life Care Hospital,Bangaluru,"Om Complex, 20th Main, Gangotri Circle, BTM Layout, Madiwala",2324,Karnataka,560029,12.9194712,77.6130111,N/A,N/A,+91-80 2684 6677,https://lifecarehosp.com/
+Bhagavathi Hospitals Private Limited,bangalore,HSR Layout Sector 6,.L-168,Tamil Nadu,625009,12.9161259,77.6311505,N/A,N/A,+91-80 4124 5860,N/A
+Gunasheela Hospitals,bangalore,"Sulochana Building, 1st Cross Rd, 3rd Block, Sarjapura Main Road, Koramangala",365,N/A,560034,12.9250105,77.6278708,N/A,N/A,+91-80 - 4646 2626,http://gunasheela.co.in/
+NRS Medical & Dental Specialists Centre,bangalore,"80 feet road,banashankari",5,N/A,560050,12.9151071,77.5624888,N/A,N/A,08026696054,N/A
+Anurag Medical Centre,bangalore,"Main Road, Chandra Layout, Vijayanagar,",#349/352/6/1/1,N/A,560070,12.9060641,77.6049776,N/A,N/A,N/A,N/A
+Sarvodaya Hospital,bangalore,Magadi Main Road,11/2,N/A,560079,12.9390944,77.5619057,N/A,N/A,098440 74946,N/A
+Indianova Healthcare Pvt Ltd,Bangalore,"3rd main shridi sai baba mandir road, Cambridge layout halasuru",58/1,N/A,560008,12.9703581,77.63022,N/A,N/A,+9197390 07505,indianovahealthcare.com
+Welnext,Bangalore,"Third Floor, H.S.R Agara Circle, Sarjapura, Outer Ring Rd, Agara Village, HSR Layout,",65/8,N/A,560102,12.9240063,77.6545058,N/A,N/A,+9196960 00222,https://welnext.com/
+Employees State Insurance Dispensary,Bangalore,"17th Cross Rd, Service Road, Opp. Maruthi Mandir, TTMC Bus Stop, Govindaraja Nagar Ward, PF Layout, Vijayanagar",N/A,N/A,560040,12.966771,77.5349228,N/A,N/A,080 2845 2785,globalhospitalsindia.com
+Dr Solankis Eye Hospital,Bangalore,", 2nd cross, Link Road, Malleswaram",191/1,Karnataka,560020,12.9951627,77.5738144,N/A,N/A,080 2356 2211,N/A
+Sri Sanjeevini Cold Laser Therapy,bangalore,"3rd Flr, Srikrupa, Nxt To Adiga Hotel, 15th Crs, Sampige Mn Rd, Malleswaram",316,N/A,560003,13.0053923,77.5713352,N/A,N/A,080663 79862,N/A
+Dr. Bhargavi Reddy Women & Children Hospital,bangalore,"Indiranagar 80ft Road, New Thippasandra, Hal 3rd Stage, Via Indira Nagar 80ft Road",N/A,N/A,560075,12.975403,77.6470594,N/A,N/A,080 2525 6666,https://drbhargavireddyhospital.com
+Axon Speciality Hospital,BENGALURU,"6th Main Road, HAL 2nd Stage, Indira Nagar",321,N/A,560038,12.973892,77.6460904,N/A,N/A,080 4334 6333,N/A
+Sanjeevini Children & Women Clinic,Bangalore,"Sultanpalya Main Road, Near-Bus Stand, R T Nagar",N/A,N/A,560032,13.0316481,77.6023154,N/A,N/A,080 2292 4422,N/A
+Procare Hospital,BANGALORE,Outer Ring Road,"914, 5th A Cross Road",N/A,560043,13.0203944,77.6512682,yes,N/A,080 4162 0620,080 4162 0620
+Life Care Hospital,Bangalore,Maruthi Nagar Main Road,"2324, Om Comple",N/A,560068,12.9239305,77.6132696,yes,N/A,080 2684 6677,N/A
+Parimala Health Care,Bangalore,Bannerghatta Road,2nd Cross Rd,N/A,560076,12.9003193,77.6008061,yes,N/A,080 2658 3117,N/A
+Unknown Hospital,Bangalore,"12th Main, HAL II Stage, Indiranagar",2989/1A,N/A,560038,12.9702741,77.6468603,N/A,N/A,080 4530 0300,https://www.nightingales.in/
+Medic Star Hospital,bangalore,"AM Road, Bharati Nagar, Shivaji Nagar",N/A,Karnataka,560001,12.9876871,77.6093097,N/A,N/A,080 2554 1337,N/A
+Hsis Gosha Hospital,bangalore,"Tasker Town, Near-KSPCB Limited, Shivaji Nagar, Sulthangunta, Shivaji Nagar",N/A,N/A,560051,12.9856985,77.6058578,N/A,N/A,"""080 2286 6529",N/A
+Santosh Hospital,bangalore,"Promenade Road, Near Coles Park, Frazer Town",6/1,Karnataka,560005,12.9959413,77.6082575,N/A,N/A,080 2536 7706,https://santoshhealthcare.com/
+Hospital,bangalore,"St Johns Church Rd, Bharati Nagar, Shivaji Nagar",N/A,N/A,560001,12.9914123,77.6117329,N/A,N/A,+9193411 44150,https://www.mirlayeyecare.com/
+Keva Ayurveda Health Care Pvt Ltd,Bengaluru,"7th Cross, 35th Main, BTM 2nd Stage,, Adjacent DSR Naveen Lake View Apartments, Karnataka",N/A,N/A,560076,12.9127062,77.6201668,N/A,N/A,080508 01515,https://kevaayurveda.com/
+Ayurvaid Hospital,Bengaluru,"Amarjyothi Layout, Off Intermediate Ring Road, Near Dell India/Millennium Motors, Domlur Extension, Amarjyoti Layout, Domlur, Karnataka",230,Karnataka,560071,12.9552696,77.6428508,N/A,N/A,080 4092 5555,https://ayurvaid.com/
+H B S Hospital,bangalore,"Sultan Gunta,, Cock Burn Rd, Sulthangunta, Shivaji Nagar",N/A,N/A,560051,12.9891941,77.6037864,N/A,N/A,080 2554 1321,N/A
+St. Martha's Heart Centre,Bangalore,"Nrupathunga Rd, RBI Colony, Sampangi Rama Nagar",5,N/A,560001,12.9705436,77.5834769,N/A,N/A,+9195380 43453,locations.narayanahealth.org
+Sumathi Nursing and Maternity Home,bangalore,"#426/12, 2 Cross,Mathikere Layout,Behind Canara Bank",N/A,Karnataka,560054,13.0325717,77.5582602,N/A,N/A,+9180 2337 2762,N/A
+Desai Nursing Home,Bangalore,"Kumarakrupa Road, High Grounds, Madhava Nagar, Gandhi Nagar",6/6,N/A,560001,12.9863736,77.5793154,N/A,N/A,+9180 2226 0307,N/A
+Fortis Hospital,bangalore,"West of Chord Road,, Opp Rajajinagar 1st Block Junction",111,N/A,560010,12.9881648,77.5548179,N/A,N/A,080-2300-4444,fortisbangalore.com
+Healing Earth Multispeciality Ayurveda Hospital,Bengaluru,"HSR Ring Road, 5th Sector , HSR Layout, Karnataka",149,N/A,560034,12.9165359,77.6361865,N/A,N/A,080674 75757,https://www.healingearth.co.in/
+Global Ayurveda Multispeciality Hospital,Bengaluru,"HSR Ring Road, 5th Sector , HSR Layout, Jakkasandra, 1st Block Koramangala, HSR Layout, Karnataka",149,N/A,560034,12.9165795,77.6362187,N/A,N/A,080674 75757,https://www.healingearth.co.in/
+Brahmi Ayurvedic Center,Bengaluru,"12th Main Road, Behind Ingu Tengu Restaurant, Off Bannerghatta Road, Shantiniketan Layout, Karnataka",311-B,N/A,560076,12.8830054,77.6073285,N/A,N/A,+9190086 54547,brahmi-ayurveda.com
+Fj Merrit Hydrotherapy And Wellness,Bengaluru,"KAY ARR CORNER STONE 2nd Floor 80 Feet Road 4th Block, Koramangala,Karnataka",101,N/A,560034,12.9344224,77.6299785,N/A,N/A,080 4095 1282,N/A
+Vedam Ayurveda Multispeciality Hospital,Bengaluru,"8th B Main Road, BTM Layout 1st Stage, KEB Colony, New Gurappana Palya, BTM Layout 1, Karnataka",57,N/A,560029,12.9175511,77.6039486,N/A,N/A,080 4120 2911,https://vedamayurveda.co.in/
+Ayur jagruti,Bengaluru,"10th Cross Rd, Doopanahalli, Indiranagar, Karnataka",3718,N/A,560008,12.9667253,77.6378289,N/A,N/A,+9196633 81398,facebook.com
+Herbocare Hospital Pvt,Bangalore,"4th B Cross, 7th A Main, 1st Block, HRBR Layout, Kalyan Nagar",714,N/A,560043,13.0204424,77.6440607,N/A,N/A,+9174064 30003,herbocare.info
+""" NRS Medical & Dental Specialists Centre""",Bangalore,"80 Feet Road, 1st Stage, Srinivasa Nagar, Banashankari",5,N/A,560050,12.9378359,77.5573329,N/A,N/A,080-26696054,N/A
+Chiranjeevi Hospital & Maternity Home,bangalore,"2nd Main, Bsk 1st Stage, 80 Feet Road, Srinivasa Nagar,Sree Manjunatha Temple Street",60,Karnataka,560050,12.9386994,77.5518394,N/A,N/A,080 2691 7676,N/A
+"Vinayaka Hospital, Hanumantha Nagar",bangalore,"State Bank Of Mysore Colony, 1st Stage,80 Feet Road,, Banashankari",110,Karnataka,560050,12.9373748,77.5494778,N/A,N/A,080 2679 6167,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Diavista Diabetes & Multispeciality Hospital,Banglore,"11th Cross, 2nd Main, 80ft Main Road, SBM Colony, Giri Nagar 4th Phase",788,N/A,560050,12.9354293,77.5477956,N/A,N/A,080 4096 9392,diavista.co.in
+Meenakshi Hospital,Bengaluru,50 Feet Road,979/A,N/A,560085,12.9420715,77.553698,N/A,N/A,+918026755800,N/A
+Medi-Tech Multi Speciality Hospital,bangalore,"9th Main, 2nd Block, Hanumantha Nagar, Near-Shaneshwara Temple Road, Banashankari 1st Stage",795/1,Karnataka,560050,12.9408667,77.5603657,N/A,N/A,080 2660 2910,N/A
+Kusuma Hospital,bangalore,"Nagendra Block, 50ft Road, 10th Main Rd, Srinagar, Banashankari",237/37,N/A,560050,12.9420124,77.5506918,N/A,N/A,080 2642 1177,N/A
+Ring Road Hospital,Bangalore,"1st Main Road, Kathreguppe Cross Road, Kathreguppe, Banashankari 3rd Stage",165,N/A,560085,12.9274553,77.5516293,N/A,N/A,080 2679 7040,N/A
+Pulse Multispecialty Hospital,bangalore,"20th Main Road, Muneshwara Block, Girinagar, 1st phase Girinagar, Kadavanthra, Banashankari",5/8/1,N/A,560085,12.9389007,77.5438808,N/A,N/A,080 2672 4466,N/A
+Surya Galaxy Hospital,bangalore,",2nd Main,1st Block,4th Phase,Kathriguppe,BSK 3rd Stage, Water Tank Road, Banashankari","103,994",N/A,560085,12.9316792,77.5450887,N/A,N/A,080 2642 1051,N/A
+Surya Diagnostics and Health Services,Bangalore,"Hosur Road, Madiwala, Venkateshwara Layout, Sadduguntepalya",#1478/1,N/A,560029,12.9242825,77.6170883,yes,N/A,080 2552 6667,N/A
+Ayushman Ayurvedic therapy centre,bangalore,"Millers Rd, Cantonment Railway Quarters",62,N/A,N/A,12.9946163,77.6023871,N/A,N/A,+91 95356 68668,ayushmanayurvedic.com
+Pristine Hospital,Bangalore,"Dr. Modi Hospital Road, 2nd stage extension",877,N/A,560010,12.9984229,77.5403887,N/A,N/A,+9180 4135 4444,pristinehospitals.com
+Sri Vinayaka Hospital,Bangalore,14th Main Road,1222,Karnataka,560040,12.9575029,77.5276466,N/A,N/A,080 2339 8062,N/A
+Shathayu Ayurveda Wellness Centre,Bangalore,14th Main Road,N/A,N/A,560040,12.9573897,77.5276882,N/A,N/A,+91 8040999110,N/A
+Hospital Sharavathi,Bangalore,"30 Service Road Rpc Layout Vijaynagar, Chandra Layout",1133/f,N/A,560040,12.9594984,77.5275515,N/A,N/A,+918023300222,N/A
+Arogya Kendra,Bangalore,"Adichunchangiri Shopping Complex Adichunchangirishpgcplx Vjyngrb40 Vijaynagar, Attiguppe",N/A,N/A,560040,12.9735891,77.5443283,N/A,N/A,+918023400463,N/A
+The Family Doctor Malleswaram,bangalore,10A Crossroad,N/A,N/A,560010,13.0029689,77.5526666,N/A,N/A,+9180 2337 6262,https://thefamilydoctor.co.in/
+Venkat Charmalaya,Bangalore,"7 Subbanna Garden Vijaynagar, Attiguppe",3437,N/A,560040,12.9644231,77.5333324,N/A,N/A,+918023392788,N/A
+V Care Medical Systems P Ltd,N/A,"S V Complex Magadi Main Vijaynagar, Magadi Road",30/2,N/A,N/A,12.9787049,77.5403581,N/A,N/A,+918023110651,N/A
+Manasa Hospital,Bangalore,Nagarabhavi Road,N/A,Karnataka,560040,12.968821,77.5246297,N/A,N/A,+918023104640,http://www.manasa.in/
+Saikrupa Hospital For Women's and Surgical Centre,Bangalore,"20th B Cross, Marenahalli Main Road, Govindaraja Nagar Ward, Vijayanagar",51/88,Karnataka,560040,12.9691657,77.5351921,N/A,N/A,+91080 2311 9592,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Cutis Academy of Cutaneous Sciences,Bangalore,"4th Main, MRCR Layout, Vijayanagar, Behind Godrej Interio, Near Veeresh Theatre, Govindaraja Nagar Ward, MC Layout, Vijayanagar",5/1,N/A,560040,12.9768117,77.5449094,N/A,N/A,080 4115 9049,N/A
+Shreya Hearing Clinic,Bangalore,Chord Road,N/A,N/A,560040,12.9621516,77.533401,N/A,N/A,""" 080 2318 0012""",N/A
+Acura Speciality Hospital,Bangalore,"5th Block, 17th C Main Road, KHB Colony , Koramangala",105,Karnataka,560095,12.9353208,77.6205504,N/A,N/A,+9180 4110 5151,https://www.seekandsource.com/acurahospital
+Prasad Nethralaya,Bangalore,"Widia Layout, Chandra Layout Main Road, Govindaraja Nagar Ward, Widia Layout, Vijayanagar",NO.105,N/A,560040,12.9603312,77.5300796,N/A,N/A,080 2339 2807,N/A
+Vijayanagar Global Hospital,Bangalore,"17th Cross, Near Main Bus Stand, M.C. Road, Vijayanagar",46,N/A,560040,12.9717905,77.5372864,N/A,N/A,080 4240 8200,N/A
+Blossom Infertility Center,Bangalore,"1st Floor, Next to Sai Prasadam Hotel, 5th Main Rd, Hampi Nagar 2nd Stage, RPC Layout",221,N/A,560040,12.9649703,77.5389842,N/A,N/A,+91 99009 99116,N/A
+Padmashree Nursing Home and Maternity Home,Bangalore,"1108/30 10Th Main 4Th Cross, Rpc Layout, Vijayanagar",30,N/A,560040,12.958321,77.5350434,N/A,N/A,080 2311 8372,N/A
+Unknown Hospital,Bangalore,"1st Main Rd, Kaveri Layout, Govindaraja Nagar Ward, Anubhav Nagar, Vijayanagar",17,N/A,560040p,12.9639998,77.5302683,N/A,N/A,080 2335 2200,N/A
+Dhanush Hospital,Bangalore,", Byraveshwara Nagar, 2nd Main, Moodalapalya, Nagarabhavi Main Road, 2nd Block, Govindaraja Nagar Ward",63,N/A,560072,12.9706209,77.5151893,N/A,N/A,080 2318 5544,N/A
+"S K Hospital, Bengaluru Urban",Bangalore,Nagarabhavi Road,N/A,Karnataka,560072,12.957572,77.5184436,N/A,N/A,080 2321 3699,N/A
+"Green City Hospital, Bengaluru Urban",Bengaluru,"Outer Ring Rd, Rose Garden, JP Nagar Phase 6, JP Nagar,",5,Karnataka,560078,12.9062193,77.580682,N/A,N/A,080 2653 6222,N/A
+The Homoeo World,Bangalore,"2nd Cross Rd, Malleshwaram",1,N/A,560003,12.9947201,77.5715879,N/A,N/A,080 2346 1995,N/A
+Modern Family Doctor Pvt Ltd,Bangalore,"1st Main Rd, Kaveri Layout, Govindaraja Nagar Ward, Anubhav Nagar, Vijayanagar,",17,N/A,560040,12.9698405,77.5327211,N/A,N/A,080 2335 2200,N/A
+Oxford Hospital,Bangalore,"Mnr Arcade, Saraki Gate, Kanakapura Road, Saraki Gate",N/A,N/A,560078,12.9312101,77.5756907,N/A,N/A,080 2245 2500,N/A
+R R Hospital & Trauma Centre,Bangalore,"8th cross, Gangadhar Nagar, 100 Feet Ring Road, J P Nagar,",11/2,N/A,560078,12.9059465,77.5904192,N/A,N/A,080 2671 8785,N/A
+M N Speciality Clinic,bangalore,"24th Main Rd, KR Layout, 1st Phase, JP Nagar",9,N/A,560078,12.9039905,77.5859569,N/A,N/A,080 2653 0121,N/A
+Prashanth Hospital,Bangalore,"Bommanahalli Circle, Hosur Main Road",90/D,N/A,560068,12.9067129,77.6265085,yes,N/A,080 4150 3714,https://www.prashanthhospitals.in/
+Parimala Health Care,Bangalore,"Bannerghatta Road, Near Kalyani Kala Mantap, Bilekahalli, 2nd Cross Rd,, Ram Shetty Nagar, Bilekahalli",N/A,N/A,560076,12.9009278,77.5986641,yes,N/A,080 2658 3117,N/A
+Vijay Diagnostic Centre,bangalore,"3rd Main,KEB Layout, BTM Layout  1","58,59",N/A,560029,12.9458746,77.5877756,yes,N/A,080 2668 4260,N/A
+Dr Lal PathLabs,Bangalore,"Ground Floor, 1st Phase, 2nd Stage, Oppo. Ias Colony Ground, BTM Layout, Mahadeshwara Nagar, Stage 2, BTM 2nd Stage",#3,N/A,560068,12.924274,77.5680927,yes,N/A,080 4091 6014,https://www.lalpathlabs.com/
+Welnext,Bangalore,"H.S.R Agara Circle, Sarjapura, Outer Ring Rd, Agara Village, HSR Layout","65/8, Third Floor",N/A,560102,12.9242869,77.6532853,yes,N/A,+9196960 00222,https://welnext.com/
+Sri Sai Ram Hospital,N/A,Kanakapura Road,N/A,Karnataka,560062,12.8943049,77.5682821,N/A,N/A,N/A,http://www.srisairamhospital.com/
+Tamara Hospital & IVF Centre,bangalore,Vidhya Vardhaka Sangha Road,34/3,N/A,560010,13.0044499,77.5530755,N/A,N/A,+91 80 2337 0780,https://tamarahealthcare.com/
+ChanRe Rheumatology and Immunology Center and Research,N/A,N/A,N/A,N/A,N/A,12.995573,77.5354215,N/A,N/A,N/A,N/A
+"Manasa Hospital, Vijayanagar",N/A,N/A,N/A,Karnataka,560040,12.9709463,77.5451059,N/A,N/A,N/A,N/A
+Nagarathna Hospital,N/A,Dr. Vishnuvardhan Road,N/A,N/A,560061,12.9056092,77.5426964,N/A,N/A,N/A,N/A
+Ramana Rao's clinic,N/A,N/A,N/A,N/A,N/A,13.0130826,77.5761449,N/A,N/A,N/A,N/A
+Government Maternity Home,N/A,N/A,N/A,N/A,N/A,12.9983402,77.6200927,N/A,N/A,N/A,N/A
+Lucid Medical Diagnostics,N/A,3 Main Road,46,N/A,560082,12.9306876,77.5794541,N/A,N/A,08049364444,https://luciddiagnostics.com/
+Cauvery Orthopaedic Centre,N/A,N/A,N/A,Karnataka,560010,12.9984887,77.5504219,N/A,orthopaedics,N/A,N/A
+"Apollo Bengaluru Cradle Limited, Jayanagar",N/A,N/A,N/A,Karnataka,560011,12.9168014,77.5851878,N/A,N/A,N/A,https://www.apollocradle.com/
+"Nethradhama Superspeciality Eye Hospital, Rajajinagar",N/A,N/A,N/A,Karnataka,560021,12.997613,77.5509423,N/A,N/A,N/A,N/A
+NIMHANS - Ashwini Block,N/A,N/A,N/A,N/A,N/A,12.9397588,77.59445,N/A,N/A,N/A,N/A
+Comfort Multispeciality Hospital,N/A,N/A,N/A,Karnataka,560093,12.9817167,77.6800412,N/A,N/A,N/A,N/A
+National Institute of Mental Health and Neuro Sciences,N/A,N/A,N/A,Karnataka,560029,12.9400669,77.5931597,N/A,N/A,N/A,N/A
+NBRC(National Brain Research Center),N/A,N/A,N/A,N/A,N/A,12.9404277,77.5988406,N/A,N/A,N/A,N/A
+Dr. Roshni's Tooth Planet Dental Clinic,Bengaluru,DRDO Phase 2 Main Road,#33,N/A,560048,12.9876335,77.6851595,yes,N/A,N/A,N/A
+Cambridge Hospital,N/A,N/A,N/A,Karnataka,560008,12.9716236,77.6273835,N/A,N/A,N/A,N/A
+Respigen healthcare,N/A,N/A,N/A,N/A,N/A,12.9555357,77.5918347,N/A,N/A,N/A,N/A
+Doctor's diagnostics Centre,N/A,N/A,N/A,N/A,N/A,13.014746,77.6357881,N/A,N/A,N/A,N/A
+Wellspring,N/A,N/A,N/A,N/A,N/A,13.0080001,77.5837482,N/A,N/A,N/A,N/A
+Cloudnine Hospital Pvt. Ltd.,N/A,N/A,N/A,Karnataka,560001,12.9597752,77.6569127,N/A,N/A,N/A,N/A
+Subramanium Medicine Store,N/A,N/A,N/A,N/A,N/A,13.0090912,77.656317,N/A,N/A,N/A,N/A
+Chaya Super Speciality Hospital,N/A,N/A,N/A,Karnataka,560041,13.0104342,77.6583242,N/A,N/A,N/A,N/A
+Altius Hospital,N/A,N/A,N/A,Karnataka,560010,12.9849537,77.5569222,N/A,N/A,N/A,N/A
+Bangalore Diabetes Hospital,N/A,N/A,N/A,N/A,N/A,12.9918415,77.5968531,N/A,N/A,N/A,N/A
+NU Hospitals,N/A,N/A,N/A,N/A,N/A,13.011845,77.5526061,N/A,N/A,N/A,N/A
+V. S. Achar Multispeciality Hospital,N/A,N/A,N/A,Karnataka,560027,12.9472091,77.5966914,N/A,N/A,N/A,N/A
+Nature Cure Hospital,Bangalore,9th Main Road,1537/1,Karnataka,560011,12.933223,77.5842632,N/A,N/A,+91 80 2663 1945;+91 80 2244 6035,https://www.jayanagarnaturecure.in/
+Government Hospital,N/A,N/A,N/A,N/A,N/A,12.966103,77.5549647,N/A,N/A,N/A,N/A
+"Emergency Block , NIMHANS",N/A,N/A,N/A,N/A,N/A,12.9403849,77.5945391,yes,N/A,N/A,N/A
+Usha Vikranth Diagnostic Center and Hospital,N/A,N/A,N/A,N/A,N/A,12.9138086,77.5273633,N/A,N/A,N/A,N/A
+Nethradhama Superspeciality Eye Hospital,N/A,N/A,N/A,Karnataka,560038,12.9719805,77.6474011,N/A,N/A,N/A,https://www.nethradhama.org/
+Care Health,N/A,N/A,N/A,Karnataka,560024,13.0552027,77.6028234,N/A,N/A,N/A,N/A
+Sri Shankara Cancer Hospital And Research Centre (A Service Unit Of Sscf),N/A,N/A,N/A,Karnataka,560004,12.9542624,77.5709473,N/A,N/A,080-26981000,http://shankaracancerfoundation.org/
+Vathsalya Speciality Hospital,N/A,N/A,N/A,Karnataka,560079,12.9939752,77.5391801,N/A,gynaecology,N/A,N/A
+Lakeside Medical Centre and Hospital,N/A,N/A,N/A,N/A,N/A,12.9878631,77.6177434,N/A,N/A,N/A,N/A
+Maruthi Hospital,N/A,N/A,N/A,Karnataka,560072,12.9677607,77.5413282,N/A,N/A,N/A,N/A
+Aparna Hospital,N/A,N/A,N/A,N/A,N/A,12.9362087,77.616947,N/A,N/A,N/A,N/A
+Apollo Spectra Hospitals,N/A,N/A,N/A,N/A,N/A,12.9338175,77.6201615,N/A,N/A,N/A,N/A
+Sankeerthana Hospital and Fertility Center,N/A,N/A,N/A,Karnataka,560034,12.9256013,77.6359638,N/A,N/A,N/A,N/A
+Shiva Vision Care,N/A,N/A,N/A,N/A,N/A,12.9366526,77.6277125,N/A,N/A,N/A,N/A
+Sujatha Hospital,N/A,N/A,N/A,N/A,N/A,12.9781293,77.6372391,N/A,N/A,N/A,N/A
+The Eye Surgical Centre,N/A,N/A,N/A,Karnataka,560010,12.9821954,77.5493143,N/A,N/A,N/A,N/A
+Lourdes High School,N/A,N/A,N/A,N/A,N/A,13.0182102,77.540004,N/A,N/A,N/A,N/A
+Boregowda Lingamma Hospital,N/A,N/A,N/A,N/A,N/A,13.016705,77.539386,N/A,N/A,N/A,N/A
+Kanva Hospital,N/A,N/A,N/A,N/A,N/A,13.0175606,77.5394308,N/A,N/A,N/A,N/A
+Yogananda Multi Speciality Hospital,N/A,N/A,N/A,Karnataka,560070,12.9180137,77.5594723,N/A,N/A,N/A,N/A
+Dr. Agrawal's Eye Hospital,N/A,N/A,N/A,Karnataka,560004,12.9998982,77.5501121,N/A,N/A,N/A,N/A
+Ashok Hospital,N/A,N/A,N/A,Karnataka,560079,12.9948905,77.5347984,N/A,N/A,N/A,N/A
+Balaji Hospital and Gastroenterology Center,N/A,N/A,N/A,Karnataka,560019,12.9376087,77.5666429,N/A,N/A,N/A,N/A
+Chaitanya Hospital,N/A,N/A,N/A,Karnataka,560032,13.0237316,77.5941463,N/A,N/A,N/A,N/A
+Dr. B. Venkatasubbarao Memorial Hospital,N/A,N/A,N/A,Karnataka,560003,12.9981979,77.568151,N/A,N/A,N/A,N/A
+"South City Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560004,12.9497745,77.5802779,N/A,N/A,N/A,N/A
+"Sri Sai Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560043,13.0370143,77.6238732,N/A,N/A,N/A,N/A
+Jupiter Hospital And Institute Of Vascular Surgery,N/A,N/A,N/A,Karnataka,560003,12.9998457,77.5663653,N/A,N/A,N/A,N/A
+"Shreyas Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560043,12.9829857,77.5309655,N/A,N/A,N/A,N/A
+Rajalakshmi Multispeciality Hospital,N/A,N/A,N/A,Karnataka,560078,12.9168151,77.5795484,N/A,N/A,N/A,N/A
+Ashirwad Hospital,N/A,N/A,N/A,Karnataka,560032,13.0289685,77.6045479,N/A,N/A,N/A,N/A
+Asha Kiran Children & Women Health Care Centre,N/A,N/A,N/A,Karnataka,560032,13.0263529,77.5933929,N/A,N/A,N/A,N/A
+Radha Maternity and Surgical Hospital,N/A,N/A,N/A,Karnataka,560053,12.9690441,77.5688544,N/A,N/A,N/A,N/A
+"Hitech Kidney Stone Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560001,12.9878104,77.5809833,N/A,Dornier AlphaLithotripsy Treatment; X-Rays; US Scan; Urologist Consultation,N/A,http://www.hitechkidneystonehospital.org/
+Sri Dhavantari Ayurveda Hoapital,N/A,N/A,N/A,Karnataka,560010,12.9822186,77.5599374,N/A,N/A,N/A,N/A
+Vaidyam Hospital,N/A,N/A,N/A,Karnataka,560040,12.9845512,77.5528322,N/A,N/A,N/A,N/A
+Suresh Hospital - Bangalore,N/A,N/A,N/A,Karnataka,560010,12.9897745,77.5551014,N/A,N/A,N/A,N/A
+Lakshmi Maternity Home,N/A,N/A,N/A,Karnataka,560055,13.0058226,77.5694512,N/A,N/A,N/A,N/A
+Manjunatha Maternity Home and Surgical Centre,N/A,N/A,N/A,Karnataka,560055,13.0077265,77.5696993,N/A,N/A,N/A,N/A
+Samprathi Eye Hospital And Squint Centre,N/A,N/A,N/A,Karnataka,560020,12.9932806,77.580691,N/A,N/A,N/A,https://squinteyehospital.com/
+Shankara Nethralaya Eye Hospital,N/A,N/A,N/A,Karnataka,560096,13.0089953,77.5406188,N/A,N/A,N/A,N/A
+Supra South City Hospital,N/A,N/A,N/A,Karnataka,560078,12.8919509,77.5799654,N/A,N/A,N/A,N/A
+ChanRe Rheumatology and Immunology Center and Research,N/A,N/A,N/A,Karnataka,560010,12.9992083,77.550269,N/A,N/A,N/A,https://www.chanrericr.com/
+Chandana Hospital,N/A,N/A,N/A,Karnataka,560072,12.9579894,77.5114394,N/A,N/A,N/A,N/A
+"J M J Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560045,13.0398217,77.6230843,N/A,N/A,N/A,N/A
+Sri Krishna Hospital,N/A,N/A,N/A,Karnataka,560070,12.9215013,77.5655432,N/A,N/A,N/A,N/A
+Malleswaram Eye Day Care Hospital - Bengalore,N/A,N/A,N/A,Karnataka,560003,12.9966677,77.5716037,N/A,N/A,N/A,N/A
+Mahaveer Eye Hospital Private Limited,N/A,N/A,N/A,Karnataka,560020,12.9933551,77.5729595,N/A,N/A,N/A,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Bilva Hospital,N/A,N/A,N/A,Karnataka,560003,12.9989833,77.5802015,N/A,N/A,N/A,N/A
+"Nethradhama Superspeciality Eye Hospital, Jayanagar",N/A,N/A,N/A,Karnataka,560082,12.9256932,77.5773127,N/A,ophthalmology,N/A,https://www.nethradhama.org/
+Dr Agarwals Eye Hospital Ltd,N/A,N/A,N/A,Karnataka,560076,12.9122295,77.5994906,N/A,N/A,N/A,N/A
+Sri Venkateshwara Hospitals,N/A,N/A,N/A,Karnataka,560068,12.926471,77.6167399,N/A,N/A,N/A,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+"Nova Specialty Surgery Center, Koramangala",N/A,N/A,N/A,Karnataka,560034,12.9339097,77.620208,N/A,multi speciality,N/A,www.novaspecialtysurgery.com
+C.S. Hospital,N/A,N/A,N/A,Karnataka,560063,12.9118831,77.5528805,N/A,N/A,N/A,N/A
+Sri Kalabyraveshwara Swamy Ayurvedic Medical College hospital,N/A,N/A,N/A,Karnataka,560104,12.9650437,77.5435022,N/A,N/A,N/A,http://skayurvediccollegeandhospital.com/
+"Anugraha Hospital, Vijayanagar",N/A,N/A,N/A,Karnataka,560079,12.9765645,77.5455876,N/A,N/A,N/A,N/A
+Amar Hospital,N/A,N/A,N/A,Karnataka,560053,12.9711822,77.5781228,N/A,N/A,N/A,N/A
+Retina Institute Of Karnataka,N/A,N/A,N/A,Karnataka,560018,12.95727,77.5640827,N/A,N/A,N/A,https://www.retinainstitute.org/
+The Venlakh Hospital,N/A,N/A,N/A,Karnataka,560018,12.9572978,77.5644522,N/A,N/A,N/A,N/A
+Vishwabharathi Hospital Pvt. Ltd,N/A,N/A,N/A,Karnataka,560019,12.9406698,77.5644596,N/A,N/A,N/A,N/A
+"Sunetra Eye Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560050,12.9404548,77.5578493,N/A,N/A,N/A,N/A
+Sri Vivekananda Sevashrama,N/A,N/A,N/A,Karnataka,560070,12.9253299,77.5711893,N/A,N/A,N/A,N/A
+Saraswathi Hospital,N/A,N/A,N/A,Karnataka,560070,12.9276382,77.568896,N/A,N/A,N/A,N/A
+National Institute of Mental Health and Neuro Sciences,N/A,N/A,N/A,Karnataka,560029,12.9386321,77.5944105,N/A,N/A,N/A,https://nimhans.ac.in/
+Netraspandana Healthcare and Research Pvt. Ltd,N/A,N/A,N/A,Karnataka,560072,12.9291283,77.5461361,N/A,N/A,N/A,N/A
+Nu Trust,N/A,N/A,N/A,Karnataka,560070,12.9176216,77.5550705,N/A,N/A,N/A,N/A
+"Padmavathi Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560079,12.9817311,77.5333714,N/A,N/A,N/A,N/A
+Sri Lakshmi Multi Speciality Hospital,N/A,N/A,N/A,Karnataka,560054,12.9881868,77.5087273,N/A,N/A,N/A,N/A
+K C Raju Multi Speciality Hospital,N/A,N/A,N/A,Karnataka,560043,13.0090828,77.6235594,N/A,N/A,N/A,N/A
+Ring Road Hospital,N/A,N/A,N/A,Karnataka,560085,12.9278657,77.5519297,N/A,N/A,N/A,N/A
+"Vasan Eye Care Hospital, Bannergatta Road",N/A,N/A,N/A,Karnataka,560076,12.8822813,77.5957945,N/A,N/A,N/A,http://www.vasaneye.in/
+Varalakshmi Hospital,N/A,N/A,N/A,Karnataka,560068,12.924624,77.6170966,N/A,N/A,N/A,N/A
+Kala Hospital,N/A,N/A,N/A,Karnataka,560022,13.0223669,77.5587304,N/A,N/A,N/A,N/A
+"Shekhar Hospital, Jayanagar",N/A,N/A,N/A,Karnataka,560039,12.917589,77.5948906,N/A,N/A,N/A,N/A
+"Vasan Eye Care Hospital, Sarakki",N/A,N/A,N/A,Karnataka,560078,12.9103393,77.5732398,N/A,N/A,N/A,http://www.vasaneye.in/
+Mahanth Hospital,N/A,N/A,N/A,Karnataka,560068,12.9079615,77.6235715,N/A,N/A,N/A,N/A
+Sunayana Eye Hospital,N/A,N/A,N/A,Karnataka,560041,12.9255233,77.5937748,N/A,N/A,N/A,https://sunayanaeyehospital.com/
+"Lakshmi Hospital, Ganganagar",N/A,N/A,N/A,Karnataka,560032,13.024837,77.592089,N/A,N/A,N/A,N/A
+Lokhande S Hospital,N/A,N/A,N/A,Karnataka,560043,13.0186045,77.6479433,N/A,N/A,N/A,N/A
+Dr. T.V.Ramesh Piles Hospital,N/A,N/A,N/A,Karnataka,560032,13.0250141,77.5856289,N/A,Piles; fistula; fissure,N/A,https://www.pilesramesh.com/
+Dr Kamini Rao Hospital(A Unit Of Bacc Health Care Pvt Ltd),N/A,N/A,N/A,Karnataka,560041,12.9163994,77.5847384,N/A,N/A,N/A,N/A
+HCG,N/A,N/A,N/A,Karnataka,560027,12.9605309,77.592659,N/A,N/A,N/A,N/A
+Dr Ambedkar Medical College Hospital,N/A,N/A,N/A,Karnataka,560045,13.0218188,77.613084,N/A,multi speciality,N/A,http://www.bramc.org/
+"Supriya Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560021,12.9929043,77.5588015,N/A,N/A,N/A,N/A
+Manju Sree Hospital,N/A,N/A,N/A,Karnataka,560032,13.0212406,77.6070739,N/A,N/A,N/A,N/A
+Raj Mahal Vilas Hospital,N/A,N/A,N/A,Karnataka,560094,13.0322819,77.5770459,N/A,N/A,N/A,N/A
+Devi Eye Hospital,N/A,18th Main Road,434,Karnataka,560095,12.9412109,77.6238987,N/A,multi speciality,N/A,http://www.devieyehospital.in/
+Essential Hospital,N/A,N/A,N/A,Karnataka,560072,12.974865,77.5096312,N/A,N/A,N/A,N/A
+Shree Vijayalakshmi Hospital and Trauma Centre,N/A,N/A,N/A,Karnataka,560043,13.0373572,77.6409059,N/A,N/A,N/A,N/A
+Kalasa Maternity Home,N/A,N/A,N/A,Karnataka,560019,12.9548208,77.5672585,N/A,N/A,N/A,N/A
+Sidvin Hospital Pvt Ltd,N/A,N/A,N/A,Karnataka,560010,12.982442,77.5493681,N/A,N/A,N/A,N/A
+Abhilash Hospital And Sara Rehabilitation Centre,N/A,N/A,N/A,Karnataka,560085,12.9246384,77.5509238,N/A,N/A,N/A,N/A
+"HCG, Koramangala",N/A,N/A,N/A,Karnataka,560095,12.9343279,77.6228848,N/A,Clinical Labs; Diagnosis; Medical Oncology; Radiation oncology; Surgical Oncology,N/A,https://www.hcgoncology.com/
+"Ganesh Nursing Home, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560080,12.8957636,77.6330289,N/A,N/A,N/A,N/A
+Kavya Hospital,N/A,N/A,N/A,Karnataka,560068,12.8987442,77.6263127,N/A,N/A,N/A,N/A
+Sg Hospital,N/A,N/A,N/A,Karnataka,560085,12.9275311,77.5457901,N/A,N/A,N/A,N/A
+Yadiyuru Maternity Hospital,N/A,N/A,N/A,Karnataka,560082,12.9271494,77.5766194,N/A,N/A,N/A,N/A
+Place Guttahalli Maternity Home,N/A,N/A,N/A,Karnataka,560003,12.9988238,77.5819892,N/A,N/A,N/A,N/A
+"Phoenix Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560027,12.9608027,77.5911717,N/A,N/A,N/A,N/A
+"Vasan Eye Care Hospital, Banaswadi",N/A,N/A,N/A,Karnataka,560043,13.0241341,77.6335546,N/A,N/A,N/A,http://www.vasaneye.in/
+"Vasan Eye Care Hospital, R.T.Nagar",N/A,N/A,N/A,Karnataka,560032,13.0251833,77.5920609,N/A,N/A,N/A,http://www.vasaneye.in/
+Kims Hospital and Research Centre,N/A,N/A,N/A,Karnataka,560004,12.9563016,77.5747874,N/A,N/A,N/A,N/A
+"Karthik Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560027,12.9489406,77.5949925,N/A,N/A,N/A,N/A
+Bangalore Kidney Stones Hospital,N/A,N/A,N/A,Karnataka,560027,12.9670215,77.5892667,N/A,N/A,N/A,N/A
+Sree Lakshmi Hospital,N/A,N/A,N/A,Karnataka,560093,12.9825937,77.6814736,N/A,N/A,N/A,N/A
+"Abhaya Eye Hospital, Super Speciality Eye Care Centre",N/A,N/A,N/A,Karnataka,560085,12.9271131,77.5471291,N/A,Cataract,N/A,http://www.abhayaeyehospital.com/
+Mediscope Hospital Private Limited,N/A,N/A,N/A,Karnataka,560045,12.9994472,77.6162584,N/A,N/A,N/A,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Manjushree Speciality Hospital,N/A,N/A,N/A,Karnataka,560042,12.9825845,77.6124926,N/A,N/A,N/A,N/A
+Namratha Nursing And Maternity Home,N/A,N/A,N/A,Karnataka,560086,13.0045747,77.5432728,N/A,N/A,N/A,N/A
+The Pulse Multi Speciality Hospital,N/A,N/A,N/A,Karnataka,560085,12.9424801,77.5473283,N/A,N/A,N/A,N/A
+Popular Hospital,Bangaluru,3rd Cross Road,16,Karnataka,560004,12.9514854,77.5703564,yes,general,N/A,N/A
+Gavipuramguttahalli Maternity Home,N/A,N/A,N/A,Karnataka,560018,12.9526505,77.5548633,N/A,N/A,N/A,N/A
+Ayurseva Hospital,N/A,N/A,N/A,Karnataka,560016,13.0139247,77.6640775,N/A,N/A,N/A,N/A
+Spine Care And Ortho Care Hospital,N/A,N/A,N/A,Karnataka,560086,12.9745134,77.5493883,N/A,N/A,N/A,https://www.bengaluruspinecare.com/
+Tanmay Hospital,N/A,N/A,N/A,Karnataka,560040,12.9733764,77.5474034,N/A,N/A,N/A,N/A
+Bhagavathi Multi Speciality Hospital,N/A,N/A,N/A,Karnataka,560040,12.9160636,77.6308219,N/A,N/A,N/A,N/A
+Sri Sai Ram Hospital - Bangalore,N/A,N/A,N/A,Karnataka,560076,12.9144587,77.6003156,N/A,N/A,N/A,N/A
+Susheel Hospital,N/A,N/A,N/A,Karnataka,560040,12.9645006,77.5427189,N/A,N/A,N/A,N/A
+Dhanush Hospital,N/A,N/A,N/A,Karnataka,560072,12.9654318,77.52312,N/A,N/A,N/A,N/A
+"Sadhana Eye Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560008,12.970023,77.6307987,N/A,N/A,N/A,N/A
+Av Hospital,N/A,N/A,N/A,Karnataka,560004,12.938853,77.5786096,N/A,N/A,N/A,N/A
+"Balaji Hospital, K.H. Ranganath Colony",N/A,N/A,N/A,Karnataka,560018,12.9632506,77.5602901,N/A,N/A,N/A,N/A
+Banasawadi Hospital,N/A,N/A,N/A,Karnataka,560043,13.0205082,77.6509675,N/A,N/A,N/A,N/A
+Bangalore Eye Hospital And Retina Centre,N/A,N/A,N/A,Karnataka,560043,13.0221036,77.6387729,N/A,N/A,N/A,N/A
+Bhavatprabhu Hospitals Pvt Limited,N/A,N/A,N/A,Karnataka,560027,12.9670615,77.5903161,N/A,N/A,N/A,N/A
+Nikad Ortho Centre,N/A,N/A,N/A,Karnataka,560042,12.975802,77.6184806,N/A,N/A,N/A,N/A
+Raksha Multispeciality Hospital,N/A,N/A,N/A,Karnataka,560096,13.0195733,77.5419559,N/A,N/A,N/A,http://www.rakshahospital.in/
+Cambridge Hospital,N/A,N/A,N/A,Karnataka,560038,13.0195955,77.5419813,N/A,N/A,N/A,N/A
+Azad Nagar Maternity Home,N/A,N/A,N/A,Karnataka,560026,12.9559644,77.5485635,N/A,N/A,N/A,N/A
+Gunasheela Surgical and Maternity Hospital,N/A,N/A,N/A,Karnataka,560004,12.9403012,77.5764705,N/A,N/A,N/A,N/A
+Excel Care Hospital,N/A,N/A,N/A,Karnataka,560070,12.9207314,77.5736019,N/A,N/A,N/A,N/A
+"Vasan Eye Care Hospital, Jayanagar",N/A,N/A,N/A,Karnataka,560011,12.9292015,77.5819811,N/A,N/A,N/A,N/A
+Hi Tech Kidney Stone Hospital,N/A,N/A,N/A,Karnataka,560001,12.9271389,77.579028,N/A,Dornier AlphaLithotripsy Treatment; X-Rays; US Scan; Urologist Consultation,N/A,http://www.hitechkidneystonehospital.org/
+Dr. Vidyananda's Surgery and Dia Centre,N/A,N/A,N/A,Karnataka,560070,12.9242515,77.573217,N/A,N/A,N/A,N/A
+"Srushti Hospital, Bengaluru Rural",N/A,N/A,N/A,Karnataka,560082,12.8981572,77.6207364,N/A,N/A,N/A,N/A
+Parimala Speciality Hospital,N/A,N/A,N/A,Karnataka,560076,12.9004567,77.6005474,N/A,N/A,N/A,https://www.parimalahospital.com/
+"R K Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560084,13.0138123,77.6354731,N/A,N/A,N/A,N/A
+"Prasad Eye Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560029,12.9356703,77.6079905,N/A,N/A,N/A,N/A
+Unity Lifline Hospital Pvt Ltd,N/A,N/A,N/A,Karnataka,560072,12.9819768,77.5108275,N/A,N/A,N/A,N/A
+J.P.Nursing Home,N/A,N/A,N/A,Karnataka,560096,13.0098352,77.5384723,N/A,blood_check;general,N/A,N/A
+North Side Health Centre,N/A,N/A,N/A,Karnataka,560032,13.0267995,77.5870813,N/A,N/A,N/A,N/A
+Dr Chaitanyas Dental Care & Implant Centre,N/A,N/A,N/A,Karnataka,560032,12.9675989,77.6565533,N/A,N/A,N/A,N/A
+Kareem E.N.T and Multispeciality Centre,N/A,N/A,N/A,Karnataka,560029,12.9188948,77.6058905,N/A,N/A,N/A,N/A
+Chinmaya Narayana Super Specialty Centre,N/A,N/A,N/A,Karnataka,560038,12.9777106,77.6459773,N/A,multi speciality,N/A,https://www.narayanahealth.org/
+Jyothi The Lasik Vision Centre,N/A,N/A,N/A,Karnataka,560004,12.9496114,77.5790786,N/A,N/A,N/A,N/A
+Bengaluru West Lions Hospital,N/A,N/A,N/A,Karnataka,560002,12.9563042,77.5830996,N/A,N/A,N/A,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Vijayanagar Hospital,N/A,N/A,N/A,Karnataka,560040,12.9716291,77.5371969,N/A,N/A,N/A,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Abhinava Eye Hospital,N/A,N/A,N/A,Karnataka,560004,12.9550181,77.5683897,N/A,N/A,N/A,N/A
+North Star Maternity and Nursing Home,N/A,N/A,N/A,Karnataka,560076,12.9067079,77.5849275,N/A,N/A,N/A,N/A
+"Punarjyoti Eye Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560002,12.9685305,77.5843965,N/A,N/A,N/A,N/A
+Sundar Hospital,N/A,N/A,N/A,Karnataka,560084,13.0080166,77.6221479,N/A,N/A,N/A,N/A
+V Care Hospital,N/A,N/A,N/A,Karnataka,560037,13.015884,77.5973475,N/A,N/A,N/A,N/A
+A.M. Hospital,N/A,N/A,N/A,Karnataka,560040,12.9601022,77.5315556,N/A,N/A,N/A,N/A
+"Divya Drishti Eye Hospital, Vijayanagar",N/A,N/A,N/A,Karnataka,560104,12.9586907,77.5352668,N/A,Cataract Treatment; Cornea Clinic; Retina Clinic; Glaucoma Clinic,N/A,http://divyadrishtieyehospital.com/
+"Shridevi Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560072,12.9617045,77.5217172,N/A,N/A,N/A,N/A
+Srinivasa Eye Hospital,N/A,N/A,N/A,Karnataka,560043,13.0147224,77.6515616,N/A,N/A,N/A,N/A
+Spandana Hospital And Medical Centre,N/A,N/A,N/A,Karnataka,560016,13.0112166,77.6743939,N/A,N/A,N/A,N/A
+Sreeniwasa Hospital,N/A,N/A,N/A,Karnataka,560053,12.9732706,77.5725357,N/A,N/A,N/A,N/A
+Ashraya Medinova Pvt Ltd,N/A,N/A,N/A,Karnataka,560091,12.988865,77.5078006,N/A,N/A,N/A,N/A
+Magadi Road Maternity Home,N/A,N/A,N/A,Karnataka,560023,12.9741253,77.561823,N/A,N/A,N/A,N/A
+Pristine Hospital,N/A,N/A,N/A,Karnataka,560086,12.9980009,77.5432779,N/A,N/A,N/A,http://pristinehospitals.com/
+Dr Zamindar's Micro Surgical Eye Centre,N/A,N/A,N/A,Karnataka,560033,13.0021978,77.6329015,N/A,N/A,N/A,N/A
+Vasan Eye Care Hospital,N/A,N/A,N/A,Karnataka,560068,12.8980516,77.6339279,N/A,N/A,N/A,N/A
+Health Cottage Hospital,N/A,N/A,N/A,Karnataka,560008,12.9709143,77.6321116,N/A,N/A,N/A,N/A
+Samastha Hospitals Pvt Ltd,N/A,N/A,N/A,Karnataka,560061,12.89708,77.5473364,N/A,N/A,N/A,N/A
+Poornima Hospital,N/A,N/A,N/A,Karnataka,560032,13.0263344,77.595128,N/A,N/A,N/A,N/A
+Dr.Zamindar Microsurgical Eye Centre,N/A,N/A,N/A,Karnataka,560043,13.0178594,77.6547577,N/A,N/A,N/A,https://drzamindarseyecentre.com/
+Good Shepherd Hospital,N/A,N/A,N/A,Karnataka,560043,13.0328036,77.633289,N/A,N/A,N/A,N/A
+"Dr.Agarwal Eye Hospital, Frazer Town, Bangalore",N/A,N/A,N/A,Karnataka,560005,12.9960196,77.6128413,N/A,N/A,N/A,N/A
+"Mamta Hospital, Bengaluru Rural",N/A,N/A,N/A,Karnataka,560091,13.0377564,77.5744454,N/A,N/A,N/A,N/A
+S. J. Hospital,N/A,N/A,N/A,Karnataka,560094,13.0360827,77.575065,N/A,N/A,N/A,N/A
+Republic Hospital,N/A,N/A,N/A,Karnataka,560025,12.964162,77.5982255,N/A,N/A,N/A,N/A
+R.R. Hospital and Trauma Centre,N/A,N/A,N/A,Karnataka,560078,12.9074269,77.5716318,N/A,N/A,N/A,N/A
+Sri Sai Eye Hospital,N/A,N/A,N/A,Karnataka,560016,13.011968,77.6659168,N/A,N/A,N/A,N/A
+Sri Ram Speciality Hospital,N/A,N/A,N/A,Karnataka,560047,12.9543777,77.6209764,N/A,N/A,N/A,N/A
+Zion Hospital And Research Centre Pvt.Ltd.,N/A,N/A,N/A,Karnataka,560084,13.0149675,77.6354957,N/A,N/A,N/A,http://zionhospitals.com/
+Institute Of Nephro Urology hospital,N/A,N/A,N/A,Karnataka,560002,12.9619528,77.5728562,N/A,N/A,N/A,N/A
+Well Spring hospital,N/A,N/A,N/A,Karnataka,560095,12.9425676,77.6224349,N/A,N/A,N/A,N/A
+Aaroyha Mandir Hospital,N/A,N/A,N/A,Karnataka,560002,13.0105038,77.5502452,N/A,N/A,N/A,N/A
+"Punya Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560079,12.9862161,77.5374853,N/A,N/A,N/A,https://punyahospitals.com/
+Sandhyashree Hospital,N/A,N/A,N/A,Karnataka,560079,12.9761802,77.5261763,N/A,N/A,N/A,N/A
+Dr. Sailaja's Super Speciality Eye Hospital,N/A,N/A,N/A,Karnataka,560043,13.0276736,77.6614188,N/A,N/A,N/A,N/A
+Hillside Hospital,N/A,N/A,N/A,Karnataka,560070,12.9162753,77.5589544,N/A,N/A,N/A,N/A
+Pd Hinduja Sindhi Hospital,N/A,N/A,N/A,Karnataka,560027,12.9646359,77.5926509,N/A,N/A,N/A,N/A
+Sri Ranga Arogyadhama,N/A,N/A,N/A,Karnataka,560086,12.9986239,77.542782,N/A,N/A,N/A,N/A
+Brinda Hospital,N/A,N/A,N/A,Karnataka,560072,12.978053,77.5115959,N/A,N/A,N/A,N/A
+Deepashri Hospital,N/A,N/A,N/A,Karnataka,560072,12.9705902,77.5108503,N/A,N/A,N/A,N/A
+Rotary Eye Hospital (A Unit Of Bangalore North Rotary Trust),N/A,N/A,N/A,Karnataka,560010,12.9817233,77.5549364,N/A,N/A,N/A,N/A
+Acharya Tulsi Jain Hospital,N/A,N/A,N/A,Karnataka,560022,13.0218344,77.5567093,N/A,N/A,N/A,N/A
+Get Well Hospital,N/A,N/A,N/A,Karnataka,560047,12.9526616,77.61503,N/A,N/A,N/A,N/A
+Premier Hospital,N/A,N/A,N/A,Karnataka,560032,13.0241863,77.5960574,N/A,N/A,N/A,N/A
+Gurukripa Hospital and Health Care Centre,N/A,N/A,N/A,Karnataka,560086,13.0001802,77.5461146,N/A,N/A,N/A,N/A
+Avian Medicare and Research Centre,N/A,N/A,N/A,Karnataka,560001,13.0269276,77.6227882,N/A,N/A,N/A,N/A
+Vinayaka Health Care and Maternity Home,N/A,N/A,N/A,Karnataka,560068,12.8919999,77.6257829,N/A,N/A,N/A,N/A
+Little Flower Hospital,N/A,N/A,N/A,Karnataka,560016,13.0113204,77.6771966,N/A,N/A,N/A,N/A
+"Venkateswara Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560004,12.9543465,77.5755649,N/A,N/A,N/A,N/A
+Sai Baba Hospital,N/A,N/A,N/A,Karnataka,560058,13.0093599,77.5222108,N/A,N/A,N/A,N/A
+"Metro Hospital, Bengaluru Rural",N/A,N/A,N/A,Karnataka,560062,12.8914666,77.5612113,N/A,N/A,N/A,N/A
+"Madhu Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560079,12.9783164,77.5429603,N/A,N/A,N/A,N/A
+Al- Habeeb Hospital,N/A,N/A,N/A,Karnataka,560045,13.0236062,77.6196139,N/A,N/A,N/A,N/A
+"Santhigiri Ayurveda and Siddha Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560030,12.9439008,77.6065864,N/A,N/A,N/A,https://www.santhigiriashram.org/
+Little Flower Hospital,N/A,Opposite to bus stop,N/A,N/A,N/A,13.0113125,77.6771851,N/A,N/A,N/A,N/A
+Padmashree Diagnostics,N/A,N/A,N/A,N/A,N/A,12.9745983,77.5436792,N/A,N/A,N/A,N/A
+Venus MultiSpeciality Hospital,N/A,N/A,N/A,N/A,N/A,12.9721779,77.6807872,N/A,N/A,N/A,N/A
+Roopena Agrahara Government Hospital,N/A,N/A,N/A,Karnataka,560068,12.9102142,77.6244654,N/A,N/A,N/A,N/A
+Laggere Government Hospital,N/A,N/A,N/A,Karnataka,560058,13.009817,77.5231852,N/A,N/A,N/A,N/A
+K.C. General Hospital,N/A,N/A,N/A,Karnataka,560003,12.993382,77.5694167,N/A,N/A,N/A,N/A
+Cure Hospital,N/A,N/A,N/A,Karnataka,560032,13.0324318,77.6085263,N/A,N/A,N/A,N/A
+Yashas Neurocare,N/A,N/A,N/A,N/A,N/A,12.9853993,77.5454024,N/A,N/A,N/A,N/A
+Focus Diagnostic Center,N/A,N/A,N/A,N/A,N/A,12.9870634,77.549951,N/A,N/A,N/A,N/A
+Vittal Eye HOspital,N/A,N/A,N/A,N/A,N/A,12.931298,77.5412566,N/A,optometry;optometrist,N/A,N/A
+Chamundi Hi Tech Hospital,Bengaluru,N/A,N/A,N/A,560068,12.9240924,77.6177848,N/A,N/A,N/A,N/A
+Little Flower Hospital,N/A,N/A,N/A,Karnataka,560093,12.9807257,77.6823734,N/A,N/A,N/A,N/A
+Jeevan Hospital,N/A,N/A,N/A,Karnataka,560013,12.9901305,77.6713322,N/A,N/A,N/A,N/A
+Vedam Ayurveda Multi Speciality Hospital,N/A,N/A,N/A,Karnataka,560016,12.9946786,77.6709989,N/A,N/A,N/A,N/A
+Stroke Treatment Paralysis,N/A,N/A,N/A,Karnataka,560043,13.0239995,77.6585299,N/A,N/A,N/A,N/A
+Geriatric Hospitals,N/A,N/A,N/A,Karnataka,560043,13.0283977,77.6599575,N/A,N/A,N/A,N/A
+Pragathi Piles Hospital,N/A,N/A,N/A,Karnataka,560016,12.9966313,77.671863,N/A,N/A,N/A,N/A
+Mahaveer Hospitals,N/A,N/A,N/A,Karnataka,560016,12.9895049,77.6741439,N/A,N/A,N/A,N/A
+Medihope Super Specialty Hospital,N/A,N/A,N/A,Karnataka,560075,12.973637,77.675186,N/A,N/A,N/A,N/A
+Cure N Care Hospital,N/A,N/A,N/A,Karnataka,560016,12.989869,77.676589,N/A,N/A,N/A,N/A
+Prakruti Hospital,N/A,N/A,N/A,Karnataka,560016,12.991561,77.6757833,N/A,N/A,N/A,N/A
+Kamadhenu Hospital,N/A,N/A,N/A,Karnataka,560040,12.975501,77.534972,N/A,N/A,N/A,N/A
+Dr. Rajesh Hospitals Eye and Dental,N/A,N/A,N/A,Karnataka,560008,12.9688989,77.6422131,N/A,N/A,N/A,N/A
+OJUS Multi Speciality Hospital,N/A,N/A,N/A,Karnataka,560017,12.957269,77.653945,N/A,N/A,N/A,N/A
+Benaka Hospital,N/A,N/A,N/A,Karnataka,560079,12.9835824,77.5289448,N/A,N/A,N/A,N/A
+"Goverment Hospital, Hosahalli",N/A,N/A,N/A,Karnataka,560040,12.9744928,77.5342045,N/A,N/A,N/A,N/A
+Jhon's Medical Hospital,N/A,N/A,N/A,Karnataka,560017,12.9635299,77.6662889,N/A,N/A,N/A,N/A
+Vijaya Hospital,N/A,N/A,N/A,Karnataka,560072,12.96767,77.5226459,N/A,N/A,N/A,N/A
+Government Hospital,N/A,N/A,N/A,Karnataka,560079,12.9780731,77.5251934,N/A,N/A,N/A,N/A
+Sriprasad Ayurveda,N/A,N/A,N/A,Karnataka,560040,12.9734087,77.5462808,N/A,N/A,N/A,N/A
+Vidya Eye Hospital,N/A,N/A,N/A,Karnataka,560040,12.9707429,77.5377684,N/A,N/A,N/A,N/A
+Sai Baba Hospital,N/A,N/A,N/A,Karnataka,560008,12.9698194,77.6317472,N/A,N/A,N/A,N/A
+Shree Sai Speciality Hospital,N/A,N/A,N/A,Karnataka,560071,12.9555948,77.6418006,N/A,N/A,N/A,N/A
+Shree Dhanvantari Ayurveda Hospital,N/A,N/A,N/A,Karnataka,560040,12.9615606,77.5222312,N/A,N/A,N/A,N/A
+Srinivasam Cancer Care Multi Speciality Hospital,N/A,N/A,N/A,Karnataka,560072,12.961509,77.523151,N/A,N/A,N/A,N/A
+Magdum Hospital,N/A,N/A,N/A,Karnataka,560017,12.9589495,77.6603768,N/A,N/A,N/A,N/A
+Athoz Hospitals,N/A,N/A,N/A,Karnataka,560008,12.9673428,77.6424996,N/A,N/A,N/A,N/A
+G.R. Hospital,N/A,N/A,N/A,Karnataka,560010,12.9802303,77.5548818,N/A,N/A,N/A,N/A
+Sneha Horizon Hospital,N/A,N/A,N/A,Karnataka,560040,12.9754301,77.5358001,N/A,N/A,N/A,N/A
+Jagjeevanram Hospital,N/A,N/A,N/A,Karnataka,560072,12.968292,77.524492,N/A,N/A,N/A,N/A
+Kangroo Hospital,N/A,N/A,N/A,Karnataka,560040,12.974339,77.542325,N/A,N/A,N/A,N/A
+Abhinav Hospital,N/A,N/A,N/A,Karnataka,560023,12.9757486,77.553782,N/A,N/A,N/A,N/A
+Suhusannidhi Hospital,N/A,N/A,N/A,Karnataka,560040,12.969102,77.534951,N/A,N/A,N/A,N/A
+Panchsheela Nagar Hospital,N/A,N/A,N/A,Karnataka,560072,12.9745497,77.5208943,N/A,N/A,N/A,N/A
+ESIC Hospital,N/A,N/A,N/A,Karnataka,560008,12.9693009,77.6317545,N/A,N/A,N/A,N/A
+Sai Ortho and Dental Centre,N/A,N/A,N/A,Karnataka,560040,12.9698191,77.5360801,N/A,N/A,N/A,N/A
+Ammashrees Hospital,N/A,N/A,N/A,Karnataka,560010,12.9794315,77.5441641,N/A,N/A,N/A,N/A
+Lohitha Hospital,N/A,N/A,N/A,Karnataka,560008,12.963951,77.64308,N/A,N/A,N/A,N/A
+Government Hospital,N/A,N/A,N/A,Karnataka,560072,12.9639829,77.5188899,N/A,N/A,N/A,N/A
+Shanthakumari Hospital,N/A,N/A,N/A,Karnataka,560072,12.9637162,77.5188263,N/A,N/A,N/A,N/A
+Bengaluru Child Neurology and Rehabilitaion Centre,N/A,N/A,N/A,Karnataka,560040,12.9735574,77.5461246,N/A,N/A,N/A,N/A
+Sumati Hospital,N/A,N/A,N/A,Karnataka,560072,12.976379,77.524439,N/A,N/A,N/A,N/A
+Dr. Hemant Agrawal,N/A,N/A,N/A,Karnataka,560017,12.9583212,77.659636,N/A,N/A,N/A,N/A
+Dr. Nothesh Child Specialist,N/A,N/A,N/A,Karnataka,560040,12.975423,77.540659,N/A,N/A,N/A,N/A
+Swasthya Hospitals,N/A,N/A,N/A,Karnataka,560071,12.9544981,77.6401572,N/A,N/A,N/A,N/A
+Miracle Hopital,N/A,N/A,N/A,Karnataka,560017,12.958861,77.654322,N/A,N/A,N/A,N/A
+Sastry Memorial Hospital,N/A,N/A,N/A,Karnataka,560040,12.9698787,77.5332834,N/A,N/A,N/A,N/A
+Sri Venkateswara Hospital,N/A,N/A,N/A,Karnataka,560076,12.9056165,77.6122688,N/A,N/A,N/A,N/A
+Rajashri Grandhim Hospitals,N/A,N/A,N/A,Karnataka,560076,12.895426,77.607662,N/A,N/A,N/A,N/A
+Goldage Hospital,N/A,N/A,N/A,Karnataka,560068,12.8908362,77.6040715,N/A,N/A,N/A,N/A
+Vinayaka Hospital,N/A,N/A,N/A,Karnataka,N/A,12.93753,77.549675,N/A,N/A,N/A,N/A
+Unani Hospital,N/A,N/A,N/A,Karnataka,560002,12.9633185,77.5790145,N/A,N/A,N/A,N/A
+Rahul Maternity & Child Health Centre,N/A,N/A,N/A,Karnataka,560047,12.9596227,77.6146819,N/A,N/A,N/A,N/A
+Bangaluru Unani Hospital,N/A,N/A,N/A,Karnataka,560004,12.9405198,77.5794387,N/A,N/A,N/A,N/A
+Medcare Hospital,N/A,N/A,N/A,Karnataka,560004,12.953049,77.574203,N/A,N/A,N/A,N/A
+Sumanjara Hospital,N/A,N/A,N/A,Karnataka,560019,12.9417439,77.5601782,N/A,N/A,N/A,N/A
+Corporation Hospital,N/A,N/A,N/A,Karnataka,560018,12.961345,77.560893,N/A,N/A,N/A,N/A
+Mitralaya Hospital,N/A,N/A,N/A,Karnataka,560004,12.945591,77.5712865,N/A,N/A,N/A,N/A
+People Tree Hospitals,N/A,N/A,N/A,Karnataka,N/A,12.942076,77.553598,N/A,N/A,N/A,N/A
+Apollo Specialty Hospital,N/A,N/A,N/A,Karnataka,560011,12.936459,77.584422,N/A,N/A,N/A,N/A
+Government Hospital,N/A,N/A,N/A,Karnataka,560018,12.9609494,77.5613939,N/A,N/A,N/A,N/A
+Verna Hospital,N/A,N/A,N/A,Karnataka,560050,12.940404,77.5580361,N/A,N/A,N/A,N/A
+"Government Hospital, Banglore",N/A,N/A,N/A,Karnataka,560026,12.9587464,77.5573456,N/A,N/A,N/A,N/A
+Royan Maternity & Child Welfare Centre,N/A,N/A,N/A,Karnataka,560018,12.960311,77.568274,N/A,N/A,N/A,N/A
+Alisa Eye Hospital,N/A,N/A,N/A,Karnataka,560047,12.9652304,77.6104334,N/A,N/A,N/A,N/A
+Shekhar Hospital,N/A,N/A,N/A,Karnataka,560019,12.945944,77.567404,N/A,N/A,N/A,N/A
+Government Hospital,N/A,N/A,N/A,Karnataka,N/A,12.949104,77.563226,N/A,N/A,N/A,N/A
+Jeevini Sarvodaya Hospital,N/A,N/A,N/A,Karnataka,560019,12.9415883,77.5641917,N/A,N/A,N/A,N/A
+Mahaveer Ortho Care Speciality Centre,N/A,N/A,N/A,Karnataka,560004,12.9569684,77.5695045,N/A,N/A,N/A,N/A
+Raghavendra Hospital,N/A,N/A,N/A,Karnataka,N/A,12.938787,77.554296,N/A,N/A,N/A,N/A
+Apaara Multi Speciality,N/A,N/A,N/A,Karnataka,N/A,12.938453,77.551329,N/A,N/A,N/A,N/A
+Khincha Orthopaedic Centre,N/A,N/A,N/A,Karnataka,560004,12.939882,77.573989,N/A,N/A,N/A,N/A
+Parameshwari Hospital,N/A,N/A,N/A,Karnataka,N/A,12.948971,77.563543,N/A,N/A,N/A,N/A
+Drishti Nethralaya,N/A,N/A,N/A,Karnataka,N/A,12.9422541,77.5506328,N/A,N/A,N/A,N/A
+Furtde Hospital,N/A,N/A,N/A,Karnataka,560002,12.9654649,77.5894756,N/A,N/A,N/A,N/A
+Manavarthapet Pregnancy Hospital,N/A,N/A,N/A,Karnataka,560053,12.9702549,77.5734571,N/A,N/A,N/A,N/A
+Trinity Hospital and Heart Foundation,N/A,N/A,N/A,Karnataka,560004,12.9434996,77.5796583,N/A,N/A,N/A,N/A
+Spandana Heart Centre,N/A,N/A,N/A,Karnataka,560018,12.957222,77.566486,N/A,N/A,N/A,N/A
+Shas Eye Care,N/A,N/A,N/A,Karnataka,560047,12.960296,77.614714,N/A,N/A,N/A,N/A
+Matha Pitha Hospital,N/A,N/A,N/A,Karnataka,560070,12.9420276,77.575634,N/A,N/A,N/A,N/A
+ESI Hospital,N/A,N/A,N/A,Karnataka,560053,12.972126,77.573351,N/A,N/A,N/A,N/A
+Herige Hospital,N/A,N/A,N/A,Karnataka,560018,12.960972,77.5609696,N/A,N/A,N/A,N/A
+Gleneagles Global Hospitals,N/A,N/A,N/A,Karnataka,560025,12.9654497,77.5999044,N/A,N/A,N/A,N/A
+Punarjyoti Eye Hospital,N/A,N/A,N/A,Karnataka,560002,12.9658901,77.589928,N/A,N/A,N/A,N/A
+Swastik Eye Hospital,N/A,N/A,N/A,Karnataka,560004,12.9479647,77.5696395,N/A,N/A,N/A,N/A
+Dave Gray Hospital,N/A,N/A,N/A,Karnataka,560004,12.9458294,77.5799015,N/A,N/A,N/A,N/A
+Dr. Rudrappa's Hospital,N/A,N/A,N/A,Karnataka,560027,12.9650303,77.5954946,N/A,N/A,N/A,N/A
+Shishuka Children's Speciality Hospital,N/A,N/A,N/A,Karnataka,560043,13.0193799,77.6535352,N/A,N/A,N/A,N/A
+Skin Remediez,N/A,N/A,N/A,Karnataka,560043,13.0091103,77.6579493,N/A,N/A,N/A,N/A
+Navya Hospital,N/A,N/A,N/A,Karnataka,560024,13.0524836,77.6120857,N/A,N/A,N/A,N/A
+Ovum Birthing Centre,N/A,N/A,N/A,Karnataka,560043,13.0201491,77.6516628,N/A,N/A,N/A,N/A
+Icon Hospital,N/A,N/A,N/A,Karnataka,560024,13.0528211,77.6041042,N/A,N/A,N/A,N/A
+Medicure Hospital,N/A,N/A,N/A,Karnataka,560043,13.0283463,77.6298629,N/A,N/A,N/A,N/A
+Motherhood Women & Children Hospital,N/A,N/A,N/A,Karnataka,560043,13.0102697,77.6525909,N/A,N/A,N/A,N/A
+Feran Hospital,N/A,N/A,N/A,Karnataka,560043,13.0263661,77.6302142,N/A,N/A,N/A,N/A
+Super Specialty Eye Hospital,N/A,N/A,N/A,Karnataka,560043,13.0166883,77.6604049,N/A,N/A,N/A,N/A
+Endocrine Speciality Centre,N/A,N/A,N/A,Karnataka,560043,13.013761,77.648529,N/A,N/A,N/A,N/A
+Anjani Women's Day Care Hospital,N/A,N/A,N/A,Karnataka,560043,13.0188119,77.647187,N/A,N/A,N/A,N/A
+CDEC Hospital,N/A,N/A,N/A,Karnataka,560043,13.026989,77.6281742,N/A,N/A,N/A,N/A
+Pranam Dental Hospital,N/A,N/A,N/A,Karnataka,560045,13.029101,77.620568,N/A,N/A,N/A,N/A
+Milaan Hospital,N/A,N/A,N/A,Karnataka,560043,13.0109537,77.6476418,N/A,N/A,N/A,N/A
+Cloudnine Hospital,N/A,N/A,N/A,Karnataka,560043,13.020084,77.654053,N/A,N/A,N/A,N/A
+Rajalakshmi Multi Specialty Hospital,N/A,N/A,N/A,Karnataka,560078,12.916588,77.579602,N/A,N/A,N/A,N/A
+Lavis Hospital,N/A,N/A,N/A,Karnataka,560029,12.925461,77.609021,N/A,N/A,N/A,N/A
+Sevakshetra Hospital,N/A,N/A,N/A,Karnataka,560070,12.9215119,77.5724702,N/A,N/A,N/A,N/A
+Perfetual Help Hospital,N/A,N/A,N/A,Karnataka,560011,12.9055752,77.5425258,N/A,N/A,N/A,N/A
+Shree Vaishnavi Heart Centre and Multi Speciality,N/A,N/A,N/A,Karnataka,560076,12.9121632,77.6098276,N/A,N/A,N/A,N/A
+Marigold Hospital,N/A,N/A,N/A,Karnataka,560076,12.9136262,77.6045369,no,N/A,N/A,N/A
+Bharathi Hospitals,N/A,N/A,N/A,Karnataka,560050,12.9334096,77.5622345,N/A,N/A,N/A,N/A
+Devi Hospital,N/A,N/A,N/A,Karnataka,560034,12.9239445,77.6198634,N/A,N/A,N/A,N/A
+Devagiri Hospital,N/A,N/A,N/A,Karnataka,560070,12.924153,77.565797,N/A,N/A,N/A,N/A
+Pothys Hospital,N/A,N/A,N/A,Karnataka,560076,12.9159348,77.6034098,N/A,N/A,N/A,N/A
+Center for Liver Disease Hospital,N/A,N/A,N/A,Karnataka,560078,12.916234,77.593019,N/A,N/A,N/A,N/A
+Sudha Prevention Centre,N/A,N/A,N/A,Karnataka,560085,12.9254569,77.5467101,N/A,N/A,N/A,N/A
+Sahasra Hospital,N/A,N/A,N/A,Karnataka,560082,12.920651,77.5746118,N/A,N/A,N/A,N/A
+Health India Hospital,N/A,N/A,N/A,Karnataka,560029,12.9265183,77.6090995,N/A,N/A,N/A,N/A
+Shanti Hospital,N/A,N/A,N/A,Karnataka,560070,12.9202202,77.5772991,N/A,N/A,N/A,N/A
+Spurthy Hospital,N/A,N/A,N/A,Karnataka,560029,12.923857,77.611355,N/A,N/A,N/A,N/A
+Apollo Cradle Maternity & Children's Hospital,N/A,N/A,N/A,Karnataka,560011,12.916885,77.585258,N/A,N/A,N/A,N/A
+St. Martha's Hospital,N/A,N/A,N/A,Karnataka,560061,12.906113,77.542548,N/A,N/A,N/A,N/A
+Chinmaya Hrudayalaya,N/A,N/A,N/A,N/A,N/A,12.9778121,77.6459447,N/A,N/A,N/A,N/A
+Baptist Hospital,N/A,N/A,N/A,Karnataka,N/A,13.0362022,77.5896998,N/A,N/A,N/A,N/A
+Esi Hospital Peenya 1st Stage,N/A,N/A,N/A,Karnataka,N/A,13.0280728,77.5231858,N/A,N/A,N/A,N/A
+Nayanalaya Super Speciality Eye Care Centre,N/A,N/A,N/A,Karnataka,N/A,13.006795,77.571159,N/A,N/A,N/A,N/A
+Srinidhi Health Centre,N/A,N/A,N/A,Karnataka,N/A,13.005821,77.5725746,N/A,N/A,N/A,N/A
+Orthopedic & Eye Care Center,N/A,N/A,N/A,Karnataka,N/A,13.0054934,77.5719519,N/A,N/A,N/A,N/A
+ESI Hospital,N/A,N/A,N/A,Karnataka,N/A,13.004596,77.5540033,N/A,N/A,N/A,N/A
+Ramani Orthopaedic Hospital,N/A,N/A,N/A,Karnataka,N/A,13.0044307,77.5785238,N/A,orthopaedics,N/A,N/A
+Atharva Ayurdhama Ayurvedic Hospital,N/A,N/A,N/A,Karnataka,N/A,13.004314,77.547749,N/A,N/A,N/A,N/A
+RICH CARE HOMEOPATHY,N/A,N/A,N/A,Karnataka,N/A,13.0015461,77.5721683,N/A,N/A,N/A,N/A
+Poornayu Ayurveda Hospital,N/A,N/A,N/A,Karnataka,N/A,12.998238,77.551173,N/A,N/A,N/A,N/A
+Appllo Diagnostic,N/A,N/A,N/A,Karnataka,N/A,12.9981064,77.6008126,N/A,N/A,N/A,N/A
+Supra Diagnostics Spine Care And Ortho Care Hospital,N/A,N/A,N/A,Karnataka,N/A,12.9969996,77.5730038,N/A,N/A,N/A,N/A
+K.C.General Hospital,N/A,N/A,N/A,Karnataka,N/A,12.9960244,77.5693714,N/A,N/A,N/A,N/A
+ESIC Model Hospital,N/A,N/A,N/A,Karnataka,N/A,12.9916924,77.5539007,N/A,N/A,N/A,N/A
+Government Hospital,N/A,N/A,N/A,Karnataka,N/A,12.9905045,77.5566355,N/A,N/A,N/A,N/A
+Esi Hospital Bangalore,N/A,N/A,N/A,Karnataka,N/A,12.9904985,77.5530924,N/A,N/A,N/A,N/A
+Government Hospital,N/A,N/A,N/A,Karnataka,N/A,12.9844963,77.5551801,N/A,N/A,N/A,N/A
+Sun Orthopaedic center,N/A,N/A,N/A,N/A,N/A,13.0332219,77.5549236,N/A,N/A,N/A,N/A
+St. Johns hospital Emergency ward,N/A,N/A,N/A,N/A,N/A,12.9305937,77.6186159,N/A,N/A,N/A,N/A
+CUPA Small Animals Hospital,N/A,N/A,N/A,N/A,N/A,13.026494,77.5933758,N/A,N/A,N/A,N/A
+Healing Hands Advanced Physiotherapy Clinic,Bangalore,4th Cross Road,"64/2, Sarakki Main Rd, Sarakki Nagar,",N/A,560078,12.9128623,77.5714903,N/A,physiotherapy;physiotherapist,N/A,N/A
+Narayan Multispeciality clinic,N/A,N/A,N/A,N/A,N/A,12.9288444,77.5828703,N/A,N/A,N/A,N/A
+clinic,N/A,N/A,N/A,N/A,N/A,12.9395279,77.586437,N/A,N/A,N/A,N/A
+Kidwai Cancer Institute Radiation Block,N/A,N/A,N/A,N/A,N/A,12.9355966,77.5971575,N/A,N/A,N/A,N/A
+Altius Hospital,N/A,N/A,N/A,N/A,N/A,13.0344639,77.6291947,N/A,N/A,N/A,N/A
+My Dentist,N/A,N/A,N/A,N/A,N/A,12.9429852,77.5460604,N/A,dentist,N/A,N/A
+Suraksha Hospital,N/A,N/A,N/A,N/A,N/A,13.048083,77.628791,N/A,N/A,N/A,N/A
+Janani Clinics,"Basaveshwara Nagar, Bangalore","8th B Main Road, 3rd Stage, 2nd Block, Basaveshwaranagara",629,N/A,560079,12.9918503,77.5437825,N/A,gynaecology;orthodontics;dentist;vaccination;plastic_surgery,9036817877,N/A
+Lotus Hospital,bangalore,"24th Main Rd, Vanganahalli, 1st Sector, HSR Layout 5th Sector, Bengaluru,",N/A,N/A,560103,12.9144825,77.6491563,N/A,N/A,N/A,N/A
+Ayaans Hospital,N/A,N/A,N/A,N/A,N/A,12.9782618,77.6435889,N/A,gynaecology,N/A,N/A
+NIMHANS Department Of Psychiatric and Neuro Rehabilitation,N/A,N/A,N/A,N/A,N/A,12.9400516,77.5954768,N/A,N/A,N/A,N/A
+Nimhans Mr-pet Center,N/A,N/A,N/A,N/A,N/A,12.9396498,77.5967825,N/A,neurology,N/A,N/A
+NIMHANS Physiotherapy Center,N/A,N/A,N/A,N/A,N/A,12.9402037,77.5954721,N/A,N/A,N/A,N/A
+Cadabam's Hospitals,N/A,N/A,N/A,N/A,N/A,12.906071,77.5869281,N/A,N/A,N/A,N/A
+"Fortis Hospital, Nagarbhavi",N/A,N/A,N/A,Karnataka,560072,12.9596032,77.5112481,N/A,multi speciality,N/A,https://www.fortishealthcare.com/
+MEDSTAR Speciality Hospital,N/A,N/A,N/A,N/A,N/A,13.058128,77.5860405,N/A,N/A,N/A,N/A
+Span Health Center,N/A,N/A,N/A,N/A,N/A,12.9774449,77.6271297,N/A,N/A,N/A,N/A
+Uvin Care Hospital,N/A,N/A,N/A,N/A,N/A,12.9778346,77.6282837,N/A,N/A,N/A,N/A
+Unknown Hospital,N/A,N/A,N/A,N/A,N/A,12.8933895,77.6368614,N/A,N/A,N/A,N/A
+Bengaluru City Hospital,N/A,N/A,N/A,N/A,N/A,12.9075935,77.5707809,N/A,N/A,N/A,N/A
+Aspire Hospital,N/A,N/A,N/A,N/A,N/A,12.9971683,77.6145878,N/A,N/A,N/A,N/A
+Sai Thunga Hospitals,N/A,N/A,N/A,N/A,N/A,12.9240012,77.6481809,N/A,N/A,N/A,N/A
+Chirag Global Hospital,N/A,N/A,N/A,N/A,N/A,12.9058817,77.6037517,N/A,N/A,N/A,N/A
+PMC Hospital,N/A,N/A,N/A,N/A,N/A,13.0065047,77.5545009,N/A,N/A,N/A,N/A
+New Varalakshmi Hospital,N/A,N/A,N/A,N/A,N/A,12.9988382,77.5550964,N/A,N/A,N/A,N/A
+Apollo Cradle Children's Hospital,N/A,N/A,N/A,N/A,N/A,13.002768,77.5536287,N/A,N/A,N/A,N/A
+Netradhama,N/A,N/A,N/A,N/A,N/A,12.99743,77.5510293,N/A,N/A,N/A,N/A
+St Philomenas Hospital OPD Building,N/A,Mother Teresa Road,4,N/A,560047,12.9658506,77.6109015,N/A,N/A,08040164346;08040164300,https://www.stphilomenashospital.com/
+Hiremath Hospital,N/A,N/A,N/A,N/A,N/A,12.9754354,77.5358964,N/A,N/A,N/A,N/A
+Hiremath Hospital,N/A,N/A,N/A,N/A,N/A,12.9754353,77.5358964,N/A,N/A,N/A,N/A
+Gawai Hospital,N/A,N/A,N/A,N/A,N/A,12.9962739,77.6075693,N/A,N/A,N/A,N/A
+Hiremath Hospital,N/A,N/A,N/A,N/A,N/A,12.9754353,77.5358964,N/A,N/A,N/A,N/A
+Beams Hospitals Private Limited,Bengaluru,"640, 12Th Main, 80 Ft Road, 4Th Block, Koramangala",640,Karnataka,560034,12.9342277,77.6296323,N/A,N/A,N/A,N/A
+H Siddiah Referral Hospital,N/A,N/A,N/A,N/A,N/A,12.9569057,77.5824398,N/A,N/A,N/A,N/A
+Aster RV Hospital,bangalore,"24th Main Road, 1st Phase, J P Nagar",CA-37,N/A,560078,12.9114283,77.5849747,N/A,N/A,08046414641,https://www.asterhospitals.in/hospitals/aster-rv-bangalore
+Chinmaya Mission Hospital,N/A,N/A,N/A,N/A,N/A,12.9779337,77.6461885,yes,N/A,+91 80 2502 6100,https://www.chinmayamission.com/what-we-do/institutes/chinmaya-mission-hospital-chinmaya-mission-of-nursing/
+KLE Dental College,N/A,N/A,N/A,N/A,N/A,13.0305079,77.535667,N/A,N/A,N/A,N/A
+Health Centre,N/A,N/A,N/A,N/A,N/A,13.0157723,77.5638038,N/A,N/A,N/A,N/A
+K C General Hospital,N/A,N/A,N/A,Karnataka,560003,12.9950532,77.5697431,N/A,N/A,N/A,N/A
+St Marthas Hospital,N/A,N/A,N/A,Karnataka,560001,12.9708175,77.5857431,yes,N/A,N/A,https://www.narayanahealth.org/
+Vydehi Superspeciality Hospital,Bengaluru,Vittal Mallya Road,2,Karnataka,560001,12.9681553,77.5950421,N/A,multi speciality,+9180 2227 7979,http://www.vsshospital.com/
+Jayanagar General Hospital,N/A,N/A,N/A,Karnataka,570014,12.9261175,77.592549,N/A,N/A,N/A,N/A
+Hospital Complex,N/A,N/A,N/A,N/A,N/A,12.9382871,77.5899069,N/A,N/A,N/A,N/A
+Sri Jayadeva Institute Of Cardiology,N/A,Bannerghatta Road,N/A,Karnataka,560041,12.9185194,77.599254,yes,cardiology,N/A,N/A
+HMT Hospital,N/A,N/A,N/A,N/A,N/A,13.04958,77.5509219,N/A,N/A,N/A,N/A
+BEL Hospital,N/A,N/A,N/A,Karnataka,560013,13.0503387,77.5567647,N/A,N/A,N/A,N/A
+"Fortis Hospitals, Bannerghatta Road",N/A,N/A,N/A,Karnataka,560076,12.8947511,77.5985816,yes,multi speciality,N/A,www.fortishospitals.com
+Apollo Hospital,Bangalore,Bannerghatta Road,N/A,Karnataka,560076,12.89632,77.5983495,yes,multi speciality,N/A,www.apollohospitalsbangalore.com
+Bhagwan Mahaveer Jain Hospital,N/A,N/A,N/A,N/A,N/A,12.9914884,77.5952993,yes,N/A,N/A,N/A
+Bowring and Lady Curzon Hospitals,"Shivaji Nagar, Bangalore",Lady Curzon Road,N/A,Karnataka,560001,12.9830115,77.6047116,N/A,Bio-Chemistry; Cardiology; Cardiothoracic Surgery; Dermatology; ENT; General Medicine; General Surgery; Micro-Biology; Neurology; Ophthalmology; Orthopedics Pathology; Pediatric Surgery; Plastic Surgery; Psychiatry; Pulmonology; Radio-Diagnosis;,+91-80-25591325,https://sabvmcri.karnataka.gov.in/
+Sir Haji Ismail Gosha Sait Hospital,"Shivaji Nagar, Bangalore",Venkataswamy Naidu Road,N/A,N/A,N/A,12.9837175,77.5998896,N/A,N/A,N/A,N/A
+Government Veterinary Hospital,N/A,N/A,N/A,N/A,N/A,12.9641529,77.5676947,N/A,N/A,N/A,N/A
+Railways Hospital,N/A,N/A,N/A,N/A,N/A,12.9798353,77.5651105,N/A,N/A,N/A,N/A
+Bangalore Baptist Hospital,Bangalore,Bellary Road,N/A,Karnataka,560024,13.034555,77.5906028,yes,N/A,08022024700,https://www.bbh.org.in/
+ESI Hospital,N/A,N/A,N/A,N/A,N/A,12.9713479,77.6367243,N/A,N/A,N/A,N/A
+Rajshekhar Hospital,bangalore,"9th Cross Road, Phase 1, Sarakki Layout, JP Nagar",21,Karnataka,560078,12.9110143,77.5797725,yes,N/A,080 4252 7555,https://www.rajshekarhospital.com/
+"Sparsh Hospital For Advanced Surgeries, Bengaluru Urban",Bangalore,Infantry Road,N/A,Karnataka,560001,12.983283,77.594772,N/A,N/A,N/A,https://www.sparshhospital.com/
+"Manipal Hospital, Bengaluru Urban",N/A,N/A,N/A,Karnataka,560017,12.9587074,77.6490296,yes,N/A,N/A,N/A
+Radhakrishna Multispeciality Hospital,bangalore,"Sunrise Towers, 30th crs JP Rd. Girinagar.,opp Canara Bank",3-4,Karnataka,560085,12.9409612,77.5455617,yes,N/A,080 2642 2977,N/A
+Rajalakshmi Multi Speciality Hospital,N/A,N/A,N/A,N/A,N/A,12.9164672,77.5795714,N/A,N/A,N/A,N/A
+Manipal Hospital,N/A,N/A,N/A,N/A,N/A,12.9585777,77.6481409,N/A,N/A,N/A,N/A
+Indiranagar Government Hospital,N/A,N/A,N/A,N/A,N/A,12.9829238,77.6446972,N/A,N/A,N/A,N/A
+Isolation Hospital,N/A,N/A,N/A,N/A,N/A,12.9839262,77.6436191,N/A,N/A,N/A,N/A
+Epidemic Disesase Hospital,N/A,N/A,N/A,Karnataka,560002,12.9864155,77.6437586,N/A,N/A,N/A,N/A
+Employees' State Insurance Corporation Model Hospital,N/A,N/A,N/A,N/A,N/A,12.9909528,77.5534579,yes,N/A,N/A,N/A
+"Vittala International Institute Of Ophthalmology, Hosakerehalli",N/A,N/A,N/A,Karnataka,560085,12.9308127,77.5412224,yes,N/A,N/A,N/A
+ISRO Employees Hospital,N/A,N/A,N/A,N/A,N/A,12.966082,77.656317,N/A,N/A,N/A,N/A
+Ramaiah Memorial Hospital,N/A,N/A,N/A,Karnataka,560054,13.0282176,77.569775,yes,N/A,N/A,https://msrmh.com/
+Hosmat Hospital,N/A,N/A,N/A,Karnataka,560025,12.9691251,77.6133228,yes,N/A,N/A,N/A
+Victoria Hospital,N/A,N/A,N/A,N/A,N/A,12.9634957,77.5736948,yes,N/A,N/A,N/A
+Manipal Hospital,N/A,N/A,N/A,Karnataka,560024,13.050953,77.5938654,yes,N/A,N/A,N/A
+Dasappa Maternity Hospital,N/A,N/A,N/A,Karnataka,560002,12.9643477,77.5845256,yes,N/A,N/A,N/A
+Isolation Hospital,N/A,N/A,N/A,N/A,N/A,12.9858246,77.6429529,no,N/A,N/A,N/A
+Sarvodaya Hospital,N/A,N/A,N/A,Karnataka,560079,12.9803798,77.5390159,yes,N/A,N/A,N/A
+Dasarahalli Referral Hospital,N/A,N/A,N/A,Karnataka,560040,12.9773598,77.5428202,N/A,N/A,N/A,N/A
+Nethra Eye Hospital,N/A,N/A,N/A,Karnataka,560094,13.0271503,77.5768623,N/A,N/A,N/A,N/A
+Kidwai Memorial Institute of Oncology,N/A,N/A,N/A,Karnataka,560 029,12.936526,77.5981388,yes,oncology,N/A,https://www.kidwai.kar.nic.in/
+P.D. Hinduja Sindhi Hospital,N/A,N/A,N/A,Karnataka,560027,12.9644217,77.5926381,yes,N/A,N/A,https://www.hindujasindhihospital.com/
+Nmpc Hospital,N/A,N/A,N/A,Karnataka,560043,13.0224158,77.6580401,yes,N/A,N/A,N/A
+Shri Krishna Sevashrama Hospital,Bangalore,N/A,N/A,Karnataka,560041,12.9173497,77.5851714,N/A,N/A,+918022441631,http://www.sks-hospital.org/
+Sreerampura Referal Hospital,N/A,N/A,N/A,Karnataka,560010,12.9907432,77.5649082,N/A,N/A,N/A,N/A
+HAL Hospital,N/A,N/A,N/A,N/A,N/A,12.9623685,77.6664034,yes,N/A,N/A,N/A
+Pro MED Hospital,N/A,N/A,N/A,Karnataka,560070,12.9294355,77.564005,N/A,N/A,N/A,N/A
+Apollo Speciality Hospital,N/A,N/A,N/A,Karnataka,560011,12.9362818,77.5843424,N/A,Cardiac surgery; General and Gastro-intestinal surgery; Gynecology; Pediatric surgery; Thoracic surgery; Urology; Colorectal surgery; Cancer surgery; Orthopedics; Neurosurgery and Ear; Nose and Throat surgery,N/A,https://www.apollohospitals.com/
+"Sevakshetra Hospital, Bengaluru Urban",Bangalore,27th Cross,N/A,Karnataka,560070,12.9216889,77.5721755,yes,N/A,N/A,N/A
+Netradhama Hospital,N/A,Kanakapura Road,N/A,N/A,N/A,12.9252873,77.5774052,yes,N/A,N/A,N/A
+The Eye Foundation,Bangalore,N/A,N/A,Karnataka,560103,12.9233474,77.6724111,N/A,ophthalmology,N/A,https://www.theeyefoundation.com/new/
+Subbaiah Hospital,Mathikere,MS Ramaiah Road,N/A,Karnataka,560054,13.0302068,77.560704,yes,N/A,N/A,N/A
+"Fortis Hospitals Limited, Bengaluru Urban",Bengaluru,Cunningham Road,N/A,Karnataka,560052,12.9884913,77.5945424,yes,N/A,N/A,https://www.fortishealthcare.com/
+ESI Hospital,N/A,N/A,N/A,N/A,N/A,12.9952564,77.6527138,N/A,N/A,N/A,N/A
+Milann Fertility Center,N/A,12th Cross,4,N/A,N/A,12.9788013,77.6380849,N/A,N/A,N/A,N/A
+Sanjeevani Hospital,N/A,N/A,N/A,Karnataka,560086,13.0116917,77.5438731,N/A,N/A,N/A,https://www.sanjeevinihospital.com/
+Dr. Agarwal's Eye Hospital,N/A,N/A,N/A,N/A,N/A,12.9103592,77.6004551,N/A,N/A,N/A,N/A
+Sanjay Gandhi Accident and Trauma Hospital,N/A,N/A,N/A,N/A,N/A,12.9356389,77.5935945,yes,N/A,N/A,N/A
+Sanjay Gandhi Accident and Trauma Hospital,N/A,N/A,N/A,N/A,N/A,12.9357711,77.5939433,yes,N/A,N/A,N/A
+Greenview Hospital,N/A,N/A,N/A,N/A,N/A,12.9191928,77.6381223,N/A,N/A,N/A,N/A
+Leprosy Hospital,N/A,N/A,N/A,N/A,N/A,12.9744546,77.5640222,N/A,N/A,N/A,N/A
+Annasawmy Mudaliar General Hospital,N/A,N/A,N/A,Karnataka,560005,12.9999803,77.6144986,N/A,N/A,N/A,N/A
+Arth Ayurveda World,Bangalore,13th Main Road,3367/A,N/A,560008,12.9685282,77.6457748,N/A,ayurveda,N/A,N/A
+Indicus,N/A,2nd Cross Road,N/A,N/A,560043,13.0146094,77.6464563,N/A,N/A,N/A,N/A
+Fortis La Femme Hospital,N/A,N/A,N/A,Karnataka,560025,12.9657452,77.6097161,N/A,N/A,N/A,N/A
+Shyamala Hospital,Bangalore,Cambridge Road,17/4,Karnataka,560008,12.9714272,77.627494,no,N/A,N/A,N/A
+Medicare Diagnostics,N/A,N/A,N/A,N/A,N/A,13.0285228,77.5587301,N/A,N/A,N/A,N/A
+Abhaya Hospital,N/A,N/A,N/A,Karnataka,560027,12.9462798,77.5947839,N/A,Neuro Psychiatry; Neuro Surgery; Oncology; Orthopaedics; Joint Replacements; General Surgery,N/A,https://www.abhayahospital.org/
+MS Diabetes Speciality Center,N/A,N/A,N/A,N/A,N/A,12.9807106,77.646011,N/A,N/A,N/A,N/A
+BBMP Maternity Hospital,N/A,N/A,N/A,N/A,N/A,12.9491979,77.596808,N/A,N/A,N/A,N/A
+Ramakrishna Clinic,"Gandhi Nagar, Bangalore",4th Cross,N/A,N/A,N/A,12.978694,77.5744614,no,N/A,N/A,N/A
+ESI Hospital,N/A,N/A,N/A,N/A,N/A,12.9279948,77.5894064,N/A,N/A,N/A,N/A
+Apollo Hospital,N/A,N/A,N/A,N/A,N/A,12.9883152,77.5726942,N/A,N/A,N/A,N/A
+Supra Hospital,N/A,N/A,N/A,Karnataka,560079,12.992849,77.5386619,N/A,N/A,N/A,http://www.panaceahospital.com/
+GM Hospital,"Basaveshwara Nagar, Bangalore","8th Main, 3rd Stage",334,N/A,560079,12.9929909,77.5387177,yes,N/A,N/A,N/A
+Sakhi Hospital (A Unit Of Prasad Healthcare Services),N/A,N/A,N/A,Karnataka,560076,12.9053477,77.603209,N/A,gynaecology,N/A,N/A
+Prashanth Hospitals,N/A,N/A,N/A,Karnataka,N/A,12.9391883,77.5513126,N/A,N/A,N/A,N/A
+Vagus Super Speciality Hospital,Bengaluru,18th Cross Road,"6,7,8",Karnataka,560003,13.0084773,77.5684217,N/A,multi speciality,080-23569970,https://www.vagushospital.com/
+Ovum Hospitals,N/A,8th Main Road (west),N/A,N/A,"560043,",13.0171298,77.6432944,N/A,N/A,N/A,N/A
+Unknown Hospital,N/A,N/A,N/A,N/A,N/A,13.0546111,77.5915016,N/A,N/A,N/A,N/A
+ChanRe Rheumatology And Immunology Center And Research,N/A,N/A,N/A,N/A,N/A,12.9955667,77.5354224,N/A,N/A,N/A,N/A
+Gopala Eye Care Centre,N/A,N/A,N/A,N/A,N/A,12.9883622,77.5343261,N/A,N/A,N/A,N/A
+Sharada Medicals,N/A,8th E Main Road,N/A,N/A,560043,13.0152635,77.6467105,N/A,general,N/A,N/A
+Halasuru Referal Hospital,N/A,N/A,N/A,Karnataka,560008,12.973692,77.6266773,N/A,N/A,N/A,N/A
+Manipal Hospital,N/A,N/A,N/A,Karnataka,560052,12.9882084,77.5921572,N/A,N/A,N/A,https://www.vikramhospital.com/
+BBMP Primary Health Center,N/A,N/A,N/A,N/A,N/A,12.9591543,77.6464476,N/A,N/A,N/A,N/A
+The Fracture and Orthopaedic Clinic,N/A,N/A,N/A,N/A,N/A,13.0081737,77.5634644,N/A,N/A,N/A,N/A
+CSI Hospital,N/A,N/A,N/A,Karnataka,560051,12.991305,77.6011314,N/A,N/A,N/A,http://csihospitalblr.org
+Government Hospital,N/A,N/A,N/A,N/A,N/A,12.9490229,77.6199247,N/A,N/A,N/A,N/A
+Sagar Hospitals,N/A,N/A,N/A,Karnataka,560041,12.9279005,77.5998446,yes,N/A,08042888888,http://www.sagarhospitals.in/
+Sagar Hospital,N/A,N/A,N/A,N/A,N/A,12.9078674,77.5651623,N/A,N/A,N/A,N/A
+Command Hospital (Air Force),N/A,N/A,N/A,Karnataka,560007,12.9638649,77.6279636,N/A,N/A,N/A,N/A
+St. Philomena's Hospital,bangalore,"Mother Theresa Rd, Vivek Nagar Post, Near Life Style, Xavier Layout, Victoria Layout",4,Karnataka,560047,12.9649568,77.6111375,N/A,N/A,080 4016 4433,stphilomenashospital.org
+Government Maternity Hospital,N/A,N/A,N/A,N/A,N/A,12.9377267,77.5697859,N/A,N/A,N/A,N/A
+HCG Cancer Hospital,Bengaluru,P. Kalinga Rao Road,8,Karnataka,560027,12.9637737,77.5896833,N/A,N/A,+918040206000,https://www.hcgoncology.com/
+Al-Ameen Hospital,N/A,N/A,N/A,Karnataka,560001,12.989883,77.5942601,N/A,N/A,N/A,N/A
+St. Theresa's Hospital,N/A,Dr Rajkumar Road,N/A,Karnataka,560010,13.0067504,77.5529489,N/A,N/A,N/A,N/A
+Life Hospital,N/A,N/A,N/A,N/A,N/A,12.9756177,77.6470614,N/A,N/A,N/A,N/A
+South City Hospital,N/A,N/A,N/A,N/A,N/A,12.9496516,77.5803074,N/A,N/A,N/A,N/A
+Manipal Hospitals,N/A,N/A,N/A,N/A,N/A,12.9199685,77.6652549,yes,N/A,N/A,N/A
+Agadi Hospital,N/A,N/A,N/A,Karnataka,560027,12.9492019,77.5977936,N/A,N/A,N/A,N/A
+Sparsh Hospital,Bengaluru,Tumkur Road,N/A,N/A,560022,13.0277509,77.5429924,N/A,N/A,00919019108108,https://www.sparshhospital.com/
+Unknown Hospital,N/A,N/A,N/A,N/A,N/A,12.8980981,77.6338265,N/A,N/A,N/A,N/A
+BMS Hospital,N/A,N/A,N/A,Karnataka,560019,12.9413364,77.5674679,N/A,N/A,N/A,N/A
+M C Modi Eye Hospital,N/A,N/A,N/A,Karnataka,560086,12.9980069,77.5459005,N/A,N/A,N/A,http://www.modieyehospital.com/
+Unknown Hospital,N/A,N/A,N/A,N/A,N/A,13.0177672,77.5417058,N/A,N/A,N/A,N/A
+Puneeth Rajkumar Multispeciality Hospital,N/A,N/A,N/A,N/A,N/A,12.9414292,77.5226387,N/A,N/A,N/A,N/A
+"HOSMAT Hospital, Kalyan Nagar",Bangalore,Hennur Main Road,1,N/A,560043,13.028489,77.6325562,N/A,N/A,N/A,https://hosmathospitals.com
+Natus Woman and Children Hospital,N/A,N/A,N/A,N/A,N/A,12.9427199,77.525514,N/A,N/A,N/A,N/A
+JC Nagar Municipal Hospital,N/A,N/A,N/A,Karnataka,560006,13.0099309,77.5941222,N/A,N/A,N/A,N/A
+Government Homeopathic Hospital,N/A,N/A,N/A,Karnataka,N/A,12.9830337,77.5365274,N/A,N/A,N/A,N/A
+Dr. P.R. Desai Hospital Pvt Ltd,N/A,N/A,N/A,Karnataka,560001,12.9863583,77.5792111,N/A,N/A,N/A,N/A
+Manipal Hospital Yeshwantpur,Bengaluru,"Brigade Gateway, Beside Metro Cash and Carry West, Malleshwaram",26/4,Karnataka,560020,13.0142942,77.5560784,yes,N/A,080 3989 8969,https://www.columbiaasia.com/
+"Shifa Hospital, Bengaluru Urban",N/A,Queen's Road,N/A,Karnataka,N/A,12.9900156,77.5989689,N/A,N/A,N/A,http://dpal.kar.nic.in/Kanunu%20padakosha%20PDF%20Files/Recognised%20Hospitals.pdf
+Diacon Hospital,N/A,N/A,N/A,Karnataka,560010,13.0037724,77.5498285,N/A,N/A,N/A,N/A
+Fortis Hospital,N/A,N/A,N/A,Karnataka,560086,13.0022012,77.5491011,N/A,N/A,N/A,N/A
+Aster CMI Hospital,N/A,N/A,N/A,N/A,N/A,13.0545318,77.5918707,N/A,N/A,N/A,N/A
+Cloudnine,N/A,N/A,N/A,N/A,N/A,12.9244197,77.6724971,N/A,maternity,N/A,N/A
+Unknown Hospital,N/A,N/A,N/A,N/A,N/A,12.9849552,77.556924,N/A,N/A,N/A,N/A
+Unknown Hospital,N/A,N/A,N/A,N/A,N/A,13.0011093,77.5639446,N/A,N/A,N/A,N/A
+People Tree Hospitals,bangalore,"Tumkur Road, Opp. Taj Vivanta, Goraguntepalya",2,Karnataka,560022,13.0282887,77.5391464,N/A,N/A,+9180 4959 9999,https://www.peopletreehospitals.com/
+Charaka Super Speciality Hospital,N/A,N/A,N/A,N/A,N/A,12.9896386,77.6021916,N/A,N/A,N/A,N/A
+Unknown Hospital,N/A,N/A,N/A,N/A,N/A,13.0058093,77.5694388,N/A,N/A,N/A,N/A
+Phoenix Hospital,N/A,N/A,N/A,N/A,N/A,12.9166101,77.6450517,yes,N/A,N/A,N/A
+ESI Hospital Malleshwaram Branch,N/A,N/A,N/A,N/A,N/A,13.0151199,77.5600013,N/A,N/A,N/A,N/A
+Bhoomi Diagnostics,N/A,N/A,N/A,N/A,N/A,12.9116986,77.6495441,N/A,N/A,N/A,N/A
+Narayana Multispeciality Hospital,N/A,N/A,N/A,Karnataka,560102,12.9082086,77.6435134,N/A,N/A,N/A,https://www.narayanahealth.org/patients/locations/Bengaluru
+Rainbow Children's Hospital,Bengaluru,Bannerghatta Road,178/1 & 178/2,N/A,560076,12.9034004,77.6007617,yes,paediatrics;gynaecology,N/A,https://www.rainbowhospitals.in/our-centre/bengaluru/bannerghatta
+Suguna Hospital,N/A,Dr Rajkumar Road,N/A,Karnataka,560010,12.9882302,77.5600393,yes,N/A,N/A,N/A
+Dr Agarwal's Eye Hospital,N/A,N/A,N/A,Karnataka,560025,12.9569001,77.6047605,no,N/A,N/A,N/A
+SS Sparsh Hospital,N/A,N/A,N/A,N/A,N/A,12.9264187,77.521673,N/A,N/A,N/A,N/A
+BBMP Hospital,N/A,N/A,N/A,N/A,N/A,12.9949885,77.5937862,N/A,N/A,N/A,N/A
+Unknown Hospital,N/A,N/A,N/A,N/A,N/A,12.9609247,77.5611731,N/A,N/A,N/A,N/A
+Jnana Sanjeevini,N/A,N/A,N/A,Karnataka,560078,12.9162232,77.5890151,N/A,N/A,N/A,N/A
+Brains Super Speciality Hospital,N/A,N/A,N/A,N/A,N/A,12.9478411,77.5924773,N/A,N/A,N/A,N/A
+Vasavi Hospital,N/A,N/A,N/A,N/A,N/A,12.9031532,77.5603082,N/A,N/A,N/A,N/A
+ESI Hospital Peenya,N/A,N/A,N/A,N/A,N/A,13.0249864,77.530936,N/A,N/A,N/A,N/A
+Rainbow Childrens Hospital,Bengaluru,Sarjapura Road,3/4,N/A,560103,12.9202359,77.6674739,yes,gynaecology;child_psychiatry;paediatrics;otolaryngology;fertility;neonatology;vascular_surgery;physiatry,+91 08062261218,https://www.rainbowhospitals.in/
+Safa Medicure Hospital,N/A,N/A,N/A,N/A,N/A,12.9447394,77.5964228,N/A,N/A,N/A,N/A
+Rangadore Memorial Hospital,N/A,DV Gundappa Road,N/A,Karnataka,560004,12.9538911,77.5711462,yes,N/A,N/A,N/A
+Trustwell Hospitals,N/A,Jayachamaraja Wodeyar Road,N/A,Karnataka,560002,12.9606538,77.5840403,N/A,N/A,N/A,https://trustwellhospitals.com/
+BEML Hospital,N/A,N/A,N/A,N/A,N/A,12.9712142,77.6651646,N/A,N/A,N/A,N/A
+Government Maternity Hospital,N/A,N/A,N/A,N/A,N/A,13.0214559,77.553599,N/A,N/A,N/A,N/A
+Vanivilas Women and Children Hospital,N/A,N/A,N/A,Karnataka,560002,12.9614692,77.5736889,yes,N/A,N/A,N/A
+Minto Eye Hospital,N/A,N/A,N/A,N/A,N/A,12.9610731,77.572289,yes,N/A,N/A,N/A
+M S Ramaiah Hospital,N/A,N/A,N/A,N/A,N/A,13.0297293,77.5685912,yes,N/A,N/A,N/A
+Faculty Of Dental Sciences,N/A,N/A,N/A,N/A,N/A,13.0292222,77.5693751,yes,N/A,N/A,N/A
+St.John's Medical College Hospital,Bangalore,Sarjapur Road,N/A,Karnataka,560034,12.929648,77.6185932,yes,multi speciality,N/A,http://www.stjohns.in/hospital/#sthash.1e07FWcp.dpuf
